@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-12 17:53:59
-! Toplam Kural: 11035
+! Güncelleme: 2026-09-12 18:17:33
+! Toplam Kural: 11031
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -7069,12 +7069,10 @@ zirvedehaber.com##.header-ainfo
 ||cdn.onesignal.com^
 ||cdn.onthe.io^
 ||cdn.opencandy.com^
-||cdn.optimizely.com^
 ||cdn.optmn.cloud^
 ||cdn.oremark.com^
 ||cdn.otnolatrnup.com^
 ||cdn.p-n.io^
-||cdn.p.analitik.bik.gov.tr^
 ||cdn.parsely.com^
 ||cdn.pendo.io^
 ||cdn.perfdrive.com^
@@ -7789,7 +7787,6 @@ zirvedehaber.com##.header-ainfo
 ||edge.quantserve.com^
 ||edge.uniconsent.com^
 ||edgead.woomedya.com^
-||edk.turkiye.gov.tr^
 ||eezegrip.net^
 ||effectivemeasure.net^
 ||efilli.com^
@@ -8907,7 +8904,6 @@ zirvedehaber.com##.header-ainfo
 ||mediavisor.doubleclick.net^
 ||medimagazin.com.tr/templates/default/banners/tk_da/medimagazinreklam_hype_generated_script.js
 ||medya.ilan.gov.tr.whecloud.com^
-||medya.ilan.gov.tr^
 ||medyaalemi.com.tr/o/banner/
 ||medyaayvalik.com/wp-content/uploads/2017/09/sitezireklam.jpeg
 ||medyaayvalik.com/wp-content/uploads/2019/08/WhatsApp-
