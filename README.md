@@ -2,7 +2,7 @@
 
 Bu proje; Türkçe internet ekosistemindeki reklam, takipçi ve zararlı yazılım sunucularını engellemek amacıyla oluşturulmuş bağımsız ve hafif bir birleşik listedir. 
 
-Farklı kaynaklardan toplanan kurallar ayıklanır, mükerrer kayıtlar temizlenir ve günlük olarak güncellenir.
+Farklı kaynaklardan toplanan kurallar ayıklanır, mükerrer kayıtlar temizlenir ve günlük olarak güncellenir. Bu liste, Türkiye'deki kullanıcıların günlük internet kullanımını aksatmamak adına kritik kamu, eğitim ve temel web servislerinin yanlışlıkla engellenmesini (false-positive) önleyen otomatik doğrulama süzgeçlerinden geçirilmektedir.
 
 ## 🔗 Doğrudan Kullanım Bağlantısı
 
