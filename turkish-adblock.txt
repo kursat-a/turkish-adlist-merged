@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-14 05:51:16
-! Toplam Kural: 11031
+! Güncelleme: 2026-09-14 19:48:30
+! Toplam Kural: 11039
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1099,6 +1099,8 @@ canlitvpap.com##.channel-ad-banner
 canlitvpap.com##.sponsors-carousel
 canlitvpap.com##.vertical-banners-section
 canlitvpap.com##.video-overlay-banner
+canlitvvolo.com##.container [style]:has(> .adsbygoogle:only-child)
+canlitvvolo.com##.mobile-top-ads
 capital.com.tr###banner-masthead div[id^="medyanet"]
 casinokazan.net##.onerilenler
 casinokazan.net##.ustbar
@@ -1160,8 +1162,10 @@ cizgifilm.in###ustuzunreklam
 cizgifilm.in##.cizgi_film_kare_tanitim
 cizgifilm.in##a[href^="/reklam.php"]
 cizgivedizi.com###overlay
+cizgivedizi.com##.custom-ad-overlay
 cizgivedizi.com##img[alt^="Banner "]
 cizgivedizi.com#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', 'popupInterval')
+cizgivedizi.com#%#//scriptlet('prevent-window-open', '_blank')
 cizgivedizi.com#%#//scriptlet('remove-node-text', 'script', '/lastAdTime|openPopup/')
 cizgivedizi.com#%#//scriptlet('set-local-storage-item', 'adShown', 'true')
 cizgivedizi.com#%#//scriptlet('set-local-storage-item', 'adSkipped', 'true')
@@ -4154,7 +4158,7 @@ rotaborsa.com##.sticky-top-ad
 rotaborsa.com#$#body { padding-top: 0 !important; }
 rotaborsa.com#%#//scriptlet('trusted-replace-node-text', 'body', '-->', '/^-->$/', '')
 royalfilmizle.com,fulltimehdfilmizle.*,jetfilmizletv.net,evrenselfilm1.com,altyazilifilmizle3.com,indirmedenfilmizle.vip,fullfilmizle.*,izlehdfilm.net,1080pizle.net,tekparthdfilmizle.com,fullhdizle.*##.footer-sticky
-royaltv37.com##a[href^="https://t2ly.io/"]
+royaltv38.com##a[href^="https://t2ly.io/"]
 ruya-manga.com##.body-wrap > p[style="text-align: center;"]
 ruya-manga.com##a[href="https://cutt.ly/reklamsizokuma"]
 ruyalar.net##.site > div.code-block[style^="position: fixed; z-index: 999"]
@@ -4685,7 +4689,11 @@ taraftarium-24tv.com##a[href^="https://bit.ly/"]
 taraftarium.co##.topDuyuru
 taraftarium.co##div[class^="adsPanel"]
 taraftarium.tr##.stream-item-widget
+taraftarium24bjk17.com,taraftarium24tvizle.com###ad-pageskin
+taraftarium24bjk17.com,taraftarium24tvizle.com##.playerStrip
+taraftarium24bjk17.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled: true', 'prerollEnabled: false')
 taraftarium24canlimacyayini.online,dizifilmbox.*##a[target="_blank"] > img[width="100%"][height="100%"]
+taraftarium24tvizle.com##.listAd
 taraftarium3-24.online##a[href="https://wa.me/447347044673"]
 taraftariumhdizle24.org###pageskin-link
 taraftariumhdizle24.org##a[href^="https://hemengit.link/"]
@@ -5624,6 +5632,7 @@ yesiltopuklar.com,haberglobal.com.tr,marasexpress.com##.masthead-banner
 yetkinreport.com###el-4ed034a2 p > a > img
 yetkinreport.com##.simpleslider__slideshow.yetkin-report-add-area
 yetkinreport.com##.znColumnElement-innerContent > div.image-boxes:has(> a[target="_blank"] > div)
+yirmidort.tv##div[style="width:300px;height:250px;min-height:250px;"]
 yksprogram.com.tr##[aria-label="Sponsorlu alan"]
 yksprogram.com.tr,firtinahaber.com.tr##.ad-banner
 yolculukterapisi.com###sidebar > aside#text-19
@@ -8381,9 +8390,8 @@ zirvedehaber.com##.header-ainfo
 ||ib.adnxs-simple.com^
 ||ib.adnxs.com^
 ||ibillboard.com^
-||ibizacanli*.com/view/theme/ultimate/assets/js/rc.js
-||ibizacanli*.com/view/theme/ultimate/img/*.gif
-||ibizacanli*.com/view/theme/ultimate/img/700x600sss.png
+||ibizatv*.com/view/theme/ultimate/assets/js/rc.js
+||ibizatv*.com/view/theme/ultimate/img/*.gif
 ||ic.strmrdrfrokd.site^
 ||ice.360yield.com^
 ||ichnaea-web.netflix.com^
