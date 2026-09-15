@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-15 01:01:00
-! Toplam Kural: 11039
+! Güncelleme: 2026-09-15 05:53:50
+! Toplam Kural: 11040
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2773,6 +2773,7 @@ hwp.com.tr##a[href^="https://bitly.com/"]
 hwp.com.tr##a[href^="https://serve.for.com.tr/server/redirect.php"] > img
 ibrala.com##img[width="510"][height="150"]
 icn.com.tr##.sinyazisonu1orta
+ictihatlar.com.tr#@#.ad-unit:not(.textads)
 iddaaorantahmin.com##+js(set-constant, canRunAds, true)
 iddaaorantahmin.com#$#.reklam-alan-tam { position: absolute!important; left: -3000px!important; }
 iddaaorantahmin.com#%#//scriptlet("set-constant", "canRunAds", "true")
