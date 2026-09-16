@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-15 05:53:50
-! Toplam Kural: 11040
+! Güncelleme: 2026-09-16 01:01:02
+! Toplam Kural: 11042
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2538,6 +2538,7 @@ hangikredi.com##.flex-col > .relative:has(> .native-card-section + div.tooltip) 
 hangikredi.com##.flex-col > .relative:has(> .native-card-section + div.tooltip):first-of-type
 hangikredi.com##.md\:min-h-\[96px\]
 hangikredi.com##.md\:py-\[50px\]
+harbitv.site##a[href^="https://harbilink.pro"]
 harpersbazaar.com.tr##.topBannerFrame
 harpersbazaar.com.tr,samdan.com.tr,esquire.com.tr##.gl-advert
 harpersbazaar.com.tr,samdan.com.tr,esquire.com.tr##div[data-mbzone$="extlink"] > div#id_d_textlink
@@ -7278,6 +7279,7 @@ zirvedehaber.com##.header-ainfo
 ||collector.xhamster.com^
 ||com.tr/lib/adsv2_dist/
 ||commercialvalue.org^
+||compare.busbud.com/x/pas?placementId=
 ||conditionchange.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config-api.internet.apps.samsung.com^
