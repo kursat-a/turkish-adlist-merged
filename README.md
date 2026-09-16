@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/kursat-a/turkish-adlist-merged/main/turkish-ad
 
 Bu listenin oluşturulmasında katkısı bulunan ve içeriklerinden faydalanılan tüm değerli proje sahiplerine teşekkür ederiz:
 
-| Proje | Sahibi |
+| Proje | URL |
 |-------|--------|
 | Anxarden Türkçe Filtre | [anxarden/turkish-filterlists](https://github.com/anxarden/turkish-filterlists) |
 | AdGuard Turkish Filter & Registry | [AdGuard Team](https://github.com/AdguardTeam) |
