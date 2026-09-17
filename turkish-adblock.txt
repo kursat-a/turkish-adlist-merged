@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-17 01:00:55
-! Toplam Kural: 11048
+! Güncelleme: 2026-09-17 15:49:03
+! Toplam Kural: 11047
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -8765,7 +8765,6 @@ zirvedehaber.com##.header-ainfo
 ||loader.wisepops.com^
 ||loadus.exelator.com^
 ||loanpaydayok.com/izin/
-||localhost^
 ||localytics.com^
 ||location.api.useinsider.com^
 ||log-va.tiktokv.com^
