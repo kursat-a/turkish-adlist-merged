@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-18 01:00:56
-! Toplam Kural: 11047
+! Güncelleme: 2026-09-19 01:01:05
+! Toplam Kural: 11050
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -27,7 +27,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 .gif$~third-party,domain=giynikgazetesi.com|pandaspor.live
 .gif|$domain=/macboxtv\d+\.xyz$/
 .gif|$domain=24taraftarium12.xyz
-.gif|$domain=sedefoda.com
+.gif|$domain=afyonakhaber.com
 .mp4$media,redirect=noop-1s.mp4,domain=kultfilmler.com
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullfilmizle.cc|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcehennemi.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx|hdfilmcehennemi.*
@@ -450,6 +450,15 @@ afroditscans.com###footer > p > span[style]
 afsinhabermerkezi.com###manseyansagreklam
 afsinhabermerkezi.com##div[class^="reklamalan"]
 afsinhabermerkezi.com,airlinehaber.com###sidebar_reklam_alan
+afyonakhaber.com###hcExit
+afyonakhaber.com###tg-cta-container
+afyonakhaber.com##.banner-grid-wrap
+afyonakhaber.com##.onwin-top-wrap
+afyonakhaber.com##.pd-adbn
+afyonakhaber.com##a[href^="/tk/siteleriniz"]
+afyonakhaber.com##a[rel="nofollow noopener noreferrer sponsored"]
+afyonakhaber.com#$##mainVideo { display: block !important; }
+afyonakhaber.com#$##offerBox { display: none !important; }
 afyonhaber.com###kutu
 afyonhaber.com##img[alt*="web-banner"]
 ag2m4.cfd#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'popupLastOpened')
@@ -837,6 +846,8 @@ bayimolurmusun.com.tr##.head-advers
 bbnhaber.com.tr##.side-banner-img
 bbnhaber.com.tr##.yatay-banner
 bbnhaber.com.tr##div[data-module-name="advert"]
+bc4liveiframecdn.shop###logo
+bc4liveiframecdn.shop###promo-banner
 beceriksizler.net##+js(set-constant, adblock.check, noopFunc)
 beceriksizler.net#%#//scriptlet('set-constant', 'adblock.check', 'noopFunc')
 bedavahesap.org##.easy-notification-bar
@@ -1550,6 +1561,7 @@ dovizgrafik.com##div[align="center"][style*="height:300px;"]
 dramadizilerim.com#$##sysOverlay99 { display: none !important; }
 dramadizilerim.com#$#body { overflow: auto !important; }
 dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/\.offsetHeight[\s]*?===[\s]*?0|pagead2\.googlesyndication\.com/')
+dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'document.documentElement.setAttribute', 'data-drama-access-state')
 dramadizilerim.com#@#.ad-slot
 dramaflix.cc#%#//scriptlet('set-constant', '__DRAMAFLIX_NO_ADS__', 'true')
 dreamfancy.org##a[href*="epincity.net/"][target="_blank"]
@@ -2451,7 +2463,7 @@ haberler.com##.mustheadBlk
 haberler.com##.new3card-reklam-container > .new3card-reklam:has(> .backupContent)
 haberler.com##.new3card:has(> div[id^="div-gpt-ad"])
 haberler.com##.new3detail-page-container > .new3detail-left:has(> article.tuhps:only-child > #taboola-below-article-widget)
-haberler.com##.new3detail-page-container > div.new3detail-left > article:has(> div[data-type="_mgwidget"])
+haberler.com##.new3detail-page-container > div.new3detail-left > [class]:has(> div[data-type="_mgwidget"])
 haberler.com##.new3detail-page-container:has(> .new3detail-left > article > #taboola-below-article-thumbnails-1)
 haberler.com##.news-icerik > .new3-video-container > div[style="width:300px; height:100px; margin:0 auto;"]
 haberler.com##.newsDetailAds
@@ -4285,15 +4297,6 @@ sechaber.com.tr###post-thumbnail > .print > div[style]
 sechaber.com.tr##.mansetyanreklam
 secim.ntv.com.tr##.gotop.img
 secim.ntv.com.tr##.social-media
-sedefoda.com###hcExit
-sedefoda.com###tg-cta-container
-sedefoda.com##.banner-grid-wrap
-sedefoda.com##.onwin-top-wrap
-sedefoda.com##.pd-adbn
-sedefoda.com##a[href^="/tk/siteleriniz"]
-sedefoda.com##a[rel="nofollow noopener noreferrer sponsored"]
-sedefoda.com#$##mainVideo { display: block !important; }
-sedefoda.com#$##offerBox { display: none !important; }
 sehrivangazetesi.com#$?#.swiper-wrapper > div.swiper-slide:has(> a[href^="https://dimpa.renault.com.tr/"]) { remove: true; }
 sehrivangazetesi.com#$?#.swiper-wrapper > div.swiper-slide:has(> a[title="advert"]) { remove: true; }
 sehrivangazetesi.com#$?#.swiper-wrapper > div.swiper-slide:has(> img[src*="banner"] + a[href]) { remove: true; }
@@ -7611,6 +7614,7 @@ zirvedehaber.com##.header-ainfo
 ||dr.api.useinsider.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||dr6.biz^
+||dramadizilerim.com/assets/js/playback-guard.js
 ||drelektroniksigara.com^
 ||drtus.com/*/clicks.js
 ||ds.macellan.online^
@@ -8573,7 +8577,6 @@ zirvedehaber.com##.header-ainfo
 ||iyisayfa.net^$third-party
 ||izlefilm.cc/canavar.js
 ||izlehdfilm.net/wp-content/uploads/*/*.mp4
-||izlemac*.sbs/wp-content/uploads/*.gif
 ||izleplus.com/canavar.js
 ||j.6sc.co^
 ||jeoldkhy.com^
