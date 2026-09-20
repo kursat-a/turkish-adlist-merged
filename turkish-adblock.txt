@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-19 01:01:05
-! Toplam Kural: 11050
+! Güncelleme: 2026-09-20 01:01:00
+! Toplam Kural: 11051
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -326,6 +326,8 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||dogus-ads-cdn.dygdigital.com/daion/daion-videojs-hlsjs-*.min.js
 @@||dogus-ads-cdn.dygdigital.com/live-broadcast-player/v1/bundle.js$domain=startv.com.tr
+@@||dramadizilerim.com/assets/js/admanager.js$~third-party
+@@||dramadizilerim.com^$generichide
 @@||dreamfancy.org^$generichide
 @@||egbilisim.com.tr/wp-content/uploads/$image
 @@||ensonhaber.com/resimler/Assets/v2/scripts/ads.js
@@ -1561,7 +1563,7 @@ dovizgrafik.com##div[align="center"][style*="height:300px;"]
 dramadizilerim.com#$##sysOverlay99 { display: none !important; }
 dramadizilerim.com#$#body { overflow: auto !important; }
 dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/\.offsetHeight[\s]*?===[\s]*?0|pagead2\.googlesyndication\.com/')
-dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'document.documentElement.setAttribute', 'data-drama-access-state')
+dramadizilerim.com#%#//scriptlet('prevent-fetch', 'llvpn.com/tag.min.js')
 dramadizilerim.com#@#.ad-slot
 dramaflix.cc#%#//scriptlet('set-constant', '__DRAMAFLIX_NO_ADS__', 'true')
 dreamfancy.org##a[href*="epincity.net/"][target="_blank"]
@@ -7614,7 +7616,6 @@ zirvedehaber.com##.header-ainfo
 ||dr.api.useinsider.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||dr6.biz^
-||dramadizilerim.com/assets/js/playback-guard.js
 ||drelektroniksigara.com^
 ||drtus.com/*/clicks.js
 ||ds.macellan.online^
