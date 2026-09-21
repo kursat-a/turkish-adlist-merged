@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-20 01:01:00
+! Güncelleme: 2026-09-21 01:00:59
 ! Toplam Kural: 11051
 ! ============================================
 
@@ -27,7 +27,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 .gif$~third-party,domain=giynikgazetesi.com|pandaspor.live
 .gif|$domain=/macboxtv\d+\.xyz$/
 .gif|$domain=24taraftarium12.xyz
-.gif|$domain=afyonakhaber.com
+.gif|$domain=mercanoda.com
 .mp4$media,redirect=noop-1s.mp4,domain=kultfilmler.com
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullfilmizle.cc|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcehennemi.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx|hdfilmcehennemi.*
@@ -452,15 +452,6 @@ afroditscans.com###footer > p > span[style]
 afsinhabermerkezi.com###manseyansagreklam
 afsinhabermerkezi.com##div[class^="reklamalan"]
 afsinhabermerkezi.com,airlinehaber.com###sidebar_reklam_alan
-afyonakhaber.com###hcExit
-afyonakhaber.com###tg-cta-container
-afyonakhaber.com##.banner-grid-wrap
-afyonakhaber.com##.onwin-top-wrap
-afyonakhaber.com##.pd-adbn
-afyonakhaber.com##a[href^="/tk/siteleriniz"]
-afyonakhaber.com##a[rel="nofollow noopener noreferrer sponsored"]
-afyonakhaber.com#$##mainVideo { display: block !important; }
-afyonakhaber.com#$##offerBox { display: none !important; }
 afyonhaber.com###kutu
 afyonhaber.com##img[alt*="web-banner"]
 ag2m4.cfd#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'popupLastOpened')
@@ -3471,6 +3462,15 @@ menufiyatlari.com.tr##+js(no-setTimeout-if, adsbygoogle)
 menufiyatlari.com.tr#$#.adblockalert { display: none !important; }
 menufiyatlari.com.tr#$#body.ad_block_detected { overflow: auto !important; }
 menufiyatlari.com.tr#%#//scriptlet('prevent-setTimeout', 'adsbygoogle')
+mercanoda.com###hcExit
+mercanoda.com###tg-cta-container
+mercanoda.com##.banner-grid-wrap
+mercanoda.com##.onwin-top-wrap
+mercanoda.com##.pd-adbn
+mercanoda.com##a[href^="/tk/siteleriniz"]
+mercanoda.com##a[rel="nofollow noopener noreferrer sponsored"]
+mercanoda.com#$##mainVideo { display: block !important; }
+mercanoda.com#$##offerBox { display: none !important; }
 merlininkazani.com###billboard_banner
 merlininkazani.com###billboard_kapat
 merlininkazani.com##.adsbygoogle
