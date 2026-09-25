@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-24 01:01:00
-! Toplam Kural: 11050
+! Güncelleme: 2026-09-25 01:01:02
+! Toplam Kural: 11051
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1014,6 +1014,7 @@ breakingbadizle.*#?##wrap > p:has(> iframe[src*="/rklm/"])
 btchaber.com##.ai-track
 btchaber.com##.ai_widget
 bthaber.com,asistanaliz.com##li[id^="grand_news_custom_ads-"]
+btt.community##.btt-sponsor-banner
 buenosairesideal.com,pllsfored.co#%#//scriptlet('set-constant', 'config.adv', 'emptyObj')
 buenosairesideal.com,pllsfored.co,taraftarium.co##+js(set-constant, config.adv, {})
 bugun.com.tr##.ak_paylas_bar
