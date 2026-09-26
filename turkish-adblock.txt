@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-25 01:01:02
-! Toplam Kural: 11051
+! Güncelleme: 2026-09-26 01:00:54
+! Toplam Kural: 11053
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -27,7 +27,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 .gif$~third-party,domain=giynikgazetesi.com|pandaspor.live
 .gif|$domain=/macboxtv\d+\.xyz$/
 .gif|$domain=24taraftarium12.xyz
-.gif|$domain=incioda.com
+.gif|$domain=zevkdolu32.com
 .mp4$media,redirect=noop-1s.mp4,domain=kultfilmler.com
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullfilmizle.cc|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcehennemi.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx
 .mp4$~third-party,domain=fullhdizle.*|filmizlehdfilm.com|filmizletv.*|fullfilmizle.*|fullhdfilmizle.*|fullhdfilmizletv.*|hdfilmcix.*|hdfilmizlesene.org|sinema.cx|hdfilmcehennemi.*
@@ -349,6 +349,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 @@||iddaaorantahmin.com/cm-site/tema/iddaa/js/adsby.js
 @@||images-eu.ssl-images-amazon.com/images/$domain=amazon.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=beinsports.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dramadunyam.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
@@ -2829,15 +2830,6 @@ inattvhd188.xyz,inattvhd189.xyz,inattvhd190.xyz,inattvhd191.xyz,inattvhd192.xyz,
 incehesap.com##.kampanya
 inceleriz.com##+js(no-setTimeout-if, adblockalert)
 inceleriz.com#%#//scriptlet('prevent-setTimeout', 'adblockalert')
-incioda.com###hcExit
-incioda.com###tg-cta-container
-incioda.com##.banner-grid-wrap
-incioda.com##.onwin-top-wrap
-incioda.com##.pd-adbn
-incioda.com##a[href^="/tk/siteleriniz"]
-incioda.com##a[rel="nofollow noopener noreferrer sponsored"]
-incioda.com#$##mainVideo { display: block !important; }
-incioda.com#$##offerBox { display: none !important; }
 incisozluk.com.tr###cerceve_rek
 incisozluk.com.tr##.soz_layout_reklam
 indigodergisi.com##div[class*="indig-"]
@@ -5685,6 +5677,15 @@ zaytung.com##div[id="300x250"]
 zaytung.com##div[id="728x90"]
 zebramo.com##.zebramo-screen > div.row > div[class] > a[target="_blank"] > img
 zeichenkram.de#@#div[id^="floatLayer"]
+zevkdolu32.com###hcExit
+zevkdolu32.com###tg-cta-container
+zevkdolu32.com##.banner-grid-wrap
+zevkdolu32.com##.onwin-top-wrap
+zevkdolu32.com##.pd-adbn
+zevkdolu32.com##a[href^="/tk/siteleriniz"]
+zevkdolu32.com##a[rel="nofollow noopener noreferrer sponsored"]
+zevkdolu32.com#$##mainVideo { display: block !important; }
+zevkdolu32.com#$##offerBox { display: none !important; }
 zirvedehaber.com##.header-ainfo
 |http*://*.hurriyet.com.tr/*/FlashDetect.js*
 |http*://*.hurriyet.com.tr/*TargetMapping.js*
@@ -11040,6 +11041,7 @@ zirvedehaber.com##.header-ainfo
 ||zeekaihu.net^
 ||zenbe.com^$document,reason=service-closed
 ||zenmate.com^
+||zentryx.space^
 ||zeropark.com^
 ||zerotik.space/maczer*.js
 ||zerotiktok.com/maczer14.js
