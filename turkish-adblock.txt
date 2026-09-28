@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-28 01:00:51
-! Toplam Kural: 11057
+! Güncelleme: 2026-09-28 18:07:00
+! Toplam Kural: 11055
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1891,7 +1891,6 @@ filmizletv18.com,filmizletv.*##+js(no-setTimeout-if, /filmizletv\..*\/uploads\/P
 filmizletv18.com,filmizletv.*##+js(set-constant, reklam_1, '')
 filmizletv3.com,filmizletv4.com,filmizletv5.com,filmizletv6.com,filmizletv7.com,filmizletv8.com,filmizletv9.com,filmizletv10.com,filmizletv11.com,filmizletv12.com,filmizletv13.com,filmizletv14.com,filmizletv15.com,filmizletv16.com,filmizletv17.com,filmizletv18.com,filmizletv19.com,filmizletv20.com##div[class^="r_filmvideo"]
 filmizletv3.com,filmizletv4.com,filmizletv5.com,filmizletv6.com,filmizletv7.com,filmizletv8.com,filmizletv9.com,filmizletv10.com,filmizletv11.com,filmizletv12.com,filmizletv13.com,filmizletv14.com,filmizletv15.com,filmizletv16.com,filmizletv17.com,filmizletv18.com,filmizletv19.com,filmizletv20.com,filmizletv.*##div[class^="r_"][class$="_0"]
-filmkuzusu.vip#%#//scriptlet('prevent-window-open')
 filmkuzusu1.com#$#.tab-embed { display: block !important; }
 filmkuzusu1.com#$#.tab-reklam { display: none !important; }
 filmmakinesi.*###benzerler
@@ -2587,7 +2586,6 @@ hayrirsds24.cfd#$#.player-poster[data-poster].clickable { background-image: none
 hayrirsds24.cfd#%#//scriptlet('set-constant', 'window.config.adv.enabled', '0')
 hayvansitesi.com##div[style^="float:left;"][style*="width:300px;"]
 hboxcdn.xyz,filmizle.in,yildizkisafilm.org,movietube32.xyz##.pppx
-hboxcdn.xyz,keplersociety.com,vegoltv981.com,sierato.com,dizigom.love,cehennemizle.cc,cdnvexo.site,bingozade.com,ifsaciturksex99.site,99turkifsaizle.site,trkifsalariz.site,escobarvip.blog,dizipal.website,videojs.online,epikplayer.xyz,animeler.me,player.filmizle.in,tranimaci.com,izlekolik.org,4kfilmizlesene.*#%#//scriptlet('prevent-window-open')
 hdabla.net,avmkatalog.com,bodrumolay.com,gurkanbilgisu.com,ggmyfriend.com###custom_html-2
 hdabla.net,bodrumolay.com,gurkanbilgisu.com,ggmyfriend.com###custom_html-2
 hdfilmcanavari.org#$##film { display: block !important; }
@@ -3999,9 +3997,9 @@ pasada.com.tr##.bc_random_banner
 pasada.com.tr##img[width="160"][height="600"]
 pasada.com.tr,karabukmeydanhaber.com##img[width="160"][height="600"]
 passporterstore.com,istanbulticaretgazetesi.com,timeturk.com##div[class*="reklam-"]
-patrongol35.cfd##.background-link
-patrongol35.cfd##.top-banner-header
-patrongol35.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patrongol36.cfd##.background-link
+patrongol36.cfd##.top-banner-header
+patrongol36.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 patronlardunyasi.com,altinpalmiye.com,servers-mc.net##.ads
@@ -4033,7 +4031,6 @@ pllsfored.com##+js(set-constant, window.config.adv, {})
 pllsfored.com##img[alt="iptv satın al"]
 pllsfored.com,filmmom.pro###dqqqqq
 pllsfored.com,mgviagrtoomuch.com,bigatribun.net##marquee
-plusizle.com#%#//scriptlet('prevent-window-open')
 plusizle.org###hdr_all_banners_wrapper
 plusizle.org###video_under_banners_wrapper
 poki.com##div[class*="advertisement-"]
@@ -4637,7 +4634,7 @@ superfb.com###newsContent > div[style="margin:3px;"] > a[href^="http://bit.ly/"]
 superfb.com##.right > div[align="center"][style="margin-top:20px;"] > div[style*="background: url(/_img/otoraba/"]
 superfilmgeldi.net#$#.play-that-video { display: none !important; }
 superfilmgeldi.net#$#.video-content { display: block !important; }
-superfilmizle.*#%#//scriptlet('prevent-window-open')
+superfilmizle.*,plusizle.com,filmkuzusu.vip,hboxcdn.xyz,keplersociety.com,vegoltv981.com,sierato.com,dizigom.love,cehennemizle.cc,cdnvexo.site,bingozade.com,ifsaciturksex99.site,99turkifsaizle.site,trkifsalariz.site,escobarvip.blog,dizipal.website,videojs.online,epikplayer.xyz,animeler.me,player.filmizle.in,tranimaci.com,izlekolik.org,4kfilmizlesene.*#%#//scriptlet('prevent-window-open')
 superhaber.com##.adpro
 superhaber.com#?#.container > .row > .col-md-6:has(> .adpro)
 superhaber.com,bolgegundem.com.tr,dizipal.im,gazetepencere.com,ilkhaber-gazetesi.com,tigrishaber.com,iftarsaati.org,trendyol.com,ekoltv.com.tr,airporthaber2.com,tvnota.com,bayburtmanset.com,kartalgazetesi.com,sehirmedya.com,bursahayat.com.tr,yozgatcamlik.com##.banner
@@ -6785,7 +6782,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=mahsunsports.xyz
 ||blogger.googleusercontent.com/img/$domain=netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.com|taraftarium-24.co|tvjustin.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
-||blogger.googleusercontent.com/img/$domain=patrongol35.cfd
+||blogger.googleusercontent.com/img/$domain=patrongol36.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
@@ -9450,6 +9447,7 @@ zirvedehaber.com##.header-ainfo
 ||popmarker.com^
 ||popmyads.com^
 ||pornhdr.cf^
+||pornocudayi*.com/klip/klip-*.mp4
 ||pornoizle9.icu/pk8/ntr/b100.js
 ||portable4pc.com^
 ||portalciyiz.biz^
