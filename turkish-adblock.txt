@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-27 01:01:00
-! Toplam Kural: 11053
+! Güncelleme: 2026-09-28 01:00:51
+! Toplam Kural: 11057
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -155,6 +155,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 /ramadan-band-widget-*.html$subdocument,domain=ahaber.com.tr
 /realistik-manken.gif
 /rek.swf.html
+/rek.xml|$domain=videoplays.cfd
 /rek/*$domain=realfilmizle6.com|realfilmizle7.com|realfilmizle8.com|realfilmizle9.com|realfilmizle10.com|realfilmizle11.com|realfilmizle12.com|realfilmizle13.com|realfilmizle14.com|realfilmizle15.com|realfilmizle16.com|realfilmizle17.com|realfilmizle18.com|realfilmizle19.com|realfilmizle20.com|realfilmizle21.com|realfilmizle22.com|realfilmizle23.com|realfilmizle24.com|realfilmizle25.com|realfilmizle26.com|realfilmizle27.com|realfilmizle28.com|realfilmizle29.com|realfilmizle30.com
 /reklam-$image,script,domain=~donanimhaber.com|~mediacat.com
 /reklambelirteci.
@@ -5187,6 +5188,8 @@ veterinerhekimleri.com#%#//scriptlet("set-constant", "jQuery.adblock", "false")
 video.star.com.tr##.headerDet > .bannerTop
 videoindirelim.com###ads728and250
 videoindirelim.com###header2 > #coco2
+videoplays.cfd##.vast-ad-overlay
+videoplays.cfd#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'getAdMountPoint')
 videovak.com###main_content > div[style^="height:"] + center
 vidlax.xyz#%#//scriptlet('set-constant', 'jwSetup.advertising', 'undefined')
 vidmoxy.com##.rkbg
@@ -9676,6 +9679,7 @@ zirvedehaber.com##.header-ainfo
 ||rekmob.com^
 ||rekortv*.com/wp-content/uploads/
 ||relateddigital.com^
+||remotedesk.life^
 ||renderer.apester.com^
 ||report.appmetrica.yandex.net^
 ||reporting.cdndex.io^
