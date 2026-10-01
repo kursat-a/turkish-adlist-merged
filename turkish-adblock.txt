@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-09-30 01:00:46
-! Toplam Kural: 11055
+! Güncelleme: 2026-10-01 01:01:20
+! Toplam Kural: 11058
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -3000,6 +3000,8 @@ kanald.com.tr#@#.adv-right
 kanalmaras.com##+js(abort-on-property-read, adsBlocked)
 kanalmaras.com#%#//scriptlet("abort-on-property-read", "adsBlocked")
 kandiragundem.com##div.hbrad
+kanunyolu.com.tr##.cwv-ad-slot
+kanunyolu.com.tr#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'run')
 karabukgundem.com##.ustMenu1
 karabukmeydanhaber.com###sagBlok > div[style^="text-align: center; width: 300px; height: auto;"]
 karabukmeydanhaber.com###siteGenel > img[height="100"]
@@ -8253,6 +8255,7 @@ zirvedehaber.com##.header-ainfo
 ||habervakti.com/images/haberresim/010-1000.jpg
 ||habervakti.com/reklam.ashx
 ||haberyum.com/advers/
+||hadibettv*.com/view/theme/ultimate/img/*.gif
 ||hakemtv*.com/view/theme/safir/img/*BANNER.gif
 ||hakemtv*.com/view/theme/safir/img/guncell.png
 ||handlers.karnaval.com/*/*.functions.php?callback=*&command=get_preroll_
