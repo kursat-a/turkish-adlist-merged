@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-02 01:00:44
-! Toplam Kural: 11058
+! Güncelleme: 2026-10-03 01:00:41
+! Toplam Kural: 11060
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -778,6 +778,7 @@ aylink.co##.interstitial-page #toasts
 aylink.co##.interstitial-page .wrapper > center:has(> div:only-child .download-buttons-video)
 aysetolga.com#@#AMP-AD
 azbuz.org,siberkalem.com,fosforludusunceler.com##.geoit_popup_ade
+azginkizlar.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', 'AD_URL_')
 azginkizlar.com#%#//scriptlet('prevent-window-open', '_blank')
 azsekerlik.blogspot.com,vknsorgula.net##+js(abort-current-script, document.addEventListener, /abisuq/)
 azsekerlik.blogspot.com,vknsorgula.net#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "/abisuq/")
@@ -10564,6 +10565,7 @@ zirvedehaber.com##.header-ainfo
 ||turkifsahub.com/ads/
 ||turkifsahub.com/exoclick-popunder.js
 ||turkifsalar*.space/wp-content/plugins/
+||turkifsatube.com/*.gif
 ||turkishairforce.org/21.js
 ||turkiyegazetesi.com.tr/images/pageskin/interstitial/libs/ads-mg*.js
 ||turkiyegunlugu.net/uploads/blocks/
