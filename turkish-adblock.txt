@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-04 01:00:41
+! Güncelleme: 2026-10-05 01:00:43
 ! Toplam Kural: 11063
 ! ============================================
 
@@ -4003,9 +4003,9 @@ pasada.com.tr##.bc_random_banner
 pasada.com.tr##img[width="160"][height="600"]
 pasada.com.tr,karabukmeydanhaber.com##img[width="160"][height="600"]
 passporterstore.com,istanbulticaretgazetesi.com,timeturk.com##div[class*="reklam-"]
-patrongol36.cfd,patrongol37.cfd##.background-link
-patrongol36.cfd,patrongol37.cfd##.top-banner-header
-patrongol36.cfd,patrongol37.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patrongol37.cfd##.background-link
+patrongol37.cfd##.top-banner-header
+patrongol37.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 patronlardunyasi.com,altinpalmiye.com,servers-mc.net##.ads
@@ -6788,7 +6788,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=mahsunsports.xyz
 ||blogger.googleusercontent.com/img/$domain=netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.com|taraftarium-24.co|tvjustin.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
-||blogger.googleusercontent.com/img/$domain=patrongol36.cfd|patrongol37.cfd
+||blogger.googleusercontent.com/img/$domain=patrongol37.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
