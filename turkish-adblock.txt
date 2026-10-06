@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-05 01:00:43
+! Güncelleme: 2026-10-06 01:00:46
 ! Toplam Kural: 11063
 ! ============================================
 
@@ -2945,7 +2945,7 @@ justintv-canlimacizle.com###ouibounce-modal
 justintv.*##.stream-item-top-wrapper
 justintv.*##div[id^="stream-item"]
 justintvizle21.pro##+js(set-constant, puShown, true)
-justintvizle732.top###video_reklam
+justintvizle735.top###video_reklam
 justintvizlehd.xyz##a[href^="https://heylink.me/"]
 justintvizlehd.xyz##div[data-adv-link]
 justintvizlehd.xyz##div[data-adv]
@@ -5028,6 +5028,7 @@ turkhacks.com##.ths-head-ad
 turkhackteam.org##.ikili-reklamlar
 turkhackteam.org##.reklam-row > .rro-col > .rro-bg > a[href][target="_blank"] > img
 turkhackteam.org,kibrispostasi.com##.banner-row
+turkifsa.blog##.center-overlay
 turkifsa.xyz,fullhdfilmizlesene.*,royalfilmizle.com,sinetiktok.com,onlinedizi.xyz,uzaymanga.com,filmzirvesi.to,filmifullizle.online,sinemakolik.org,filmerotixxx.com,filmfc.com,filmizletv18.com,onlinefilmizle.site,playerzz.xyz,filmjr.org,asfilmizle.com,dizifast.net,filmhe.com,tranimaci.*,hdfilmizle.site,sinepal1.vip,hdsinemax.com,hdfilmizle.org,siyahfilmizle.*,tafdi4.com,tafdi5.com,elzemfilm.org,tafdi3.com,anizle.com,kozfilm.com,hdfilmizle.in,dizicaps.*,filmizletv1.*,diziyou.co,fullhdfilmizle.*,fullfilmizle.*,sinepal.*,dizimag.eu,bumfilmizle1.com,yabancidizilertv.*,1080hdfilmizle.com,hdfilmcehennemi.*,yabancidizibax.com,sinemangoo.org,sexfilmleriizle.com,fullhdfilm.*,geziforumu.com,efendim.xyz,dizipaltv.net,fluffcore.com,hdfilmcehennemizle.com,netfullfilmizle3.com,filmmodu.info,izlekolik.*,arrowizle.com,jokerfilmizle.com,720pfilmiizle.net,filmcus.com,filmizlew.org,zoof1.xyz,sinemakolik.net,sinefilmizlesen.com,zarize.com,burdenfly.com,zzerotik.com,filmgo.org,sinemafilmizle.net,filmkuzusu1.com,hdfilmcix.*,sinemadelisi.com,erotikfilmtube.com,dizipal.*,filmizletv.*,tekparthdfilmizle.*,pornoanne.com,dizikorea.*,diziyo.*,diziboxx.com,dafflix.*,turkaliz.com,vkfilmizle.net,dizimov.*,filmizlet.net,bumfilmizle.com,shirl.club,evrenselfilmlerim.org,turkcealtyazilipornom.com,fullhdfilmmodu2.*,sinema.cx,hdfilmizletv.net,pembetv18.*,sinemaizle.co,hdfilmcehennem.live,efullizle.com,asyafanatiklerim.com,dizilost.com,fullhdfilmdeposu.com,tranimeizle.*,volsex.com,divx720pfilmizle.org##+js(set-constant, puShown, true)
 turkifsaclub.org##.ads-grid
 turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
@@ -6698,7 +6699,6 @@ zirvedehaber.com##.header-ainfo
 ||begonya.com/wp-content/uploads/*/dikis-kursu-egitimi.jpg
 ||beintvcanliizle*.com/Uploads/*.gif
 ||beintvcanliizle*.com/Uploads/*_canli-bein-izle-sides-2-130523.png
-||belestepe*.sbs//wp-content/uploads/*.gif
 ||belge.com.tr/*uploads/*/banner-
 ||besmeargleor.com^
 ||betasus1399.com^
@@ -7096,6 +7096,7 @@ zirvedehaber.com##.header-ainfo
 ||cdn.o333o.com^
 ||cdn.oggito.com/images/ads/
 ||cdn.ogznet.com/js/ad.js
+||cdn.okiksdelivery.com^$script,domain=turkifsa.blog
 ||cdn.onesignal.com^
 ||cdn.onthe.io^
 ||cdn.opencandy.com^
@@ -8122,6 +8123,7 @@ zirvedehaber.com##.header-ainfo
 ||gencinsesi.com/wp-content/uploads/*/gencin-sesi-gazetesi-haber-ve-reklam-*.jpg
 ||gendigital.com^
 ||genelajans.com^
+||geniusclickad.cc^
 ||geniuslinkcdn.com^
 ||gentlemanvape.com^
 ||geo.ads.audio.thisisdax.com^
@@ -8131,6 +8133,7 @@ zirvedehaber.com##.header-ainfo
 ||geolocation.performgroup.com^
 ||gercekkampanyareklami.com^
 ||gercekkocaeli.com.tr/resimler/images/Teknocom(1).jpg
+||get.atechspace.live/pops-request
 ||get.optad360.io^
 ||get.s-onetag.com^
 ||getshar.es^
@@ -8625,7 +8628,6 @@ zirvedehaber.com##.header-ainfo
 ||jsc.mgid.com^
 ||json.geoiplookup.io^
 ||jsonip.com^
-||jtvkanal*.vip/api/banner-img/
 ||juicyads.com^
 ||junbi-tracker.com^
 ||justintv*.pro/izinler/*.gif
@@ -8835,7 +8837,6 @@ zirvedehaber.com##.header-ainfo
 ||mackolik.com/GoogleBanner.htm
 ||mackolikftp.tuttur.com^
 ||macro.adnami.io^
-||mactanmaca*.sbs/wp-content/*.gif|$image
 ||macvar*.live/wp-content/uploads/
 ||macvardi*.com/*.gif
 ||mads.amazon-adsystem.com^
@@ -10711,7 +10712,6 @@ zirvedehaber.com##.header-ainfo
 ||video.mcpuwpsh.com^
 ||video.mnaspm.com^
 ||video.twimg.com/amplify_video/$domain=cdnfast.sbs
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=/^belestepe\d+\.sbs/
 ||video.twimg.com/ext_tw_video/*/*.m3u8$domain=/^i[a-z]*\.strmrdr[a-z]+\..*/
 ||video.twimg.com/ext_tw_video/*/*.m3u8$domain=main.uxsyplayer8d1f6edba292.click
 ||video.twimg.com/ext_tw_video/*/pu/*/*.m4s$redirect=noop-1s.mp4,domain=ifra.strmrdrfronf.click|if.strmrdrfronf.click,media
