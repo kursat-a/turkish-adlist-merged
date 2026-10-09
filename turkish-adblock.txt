@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-08 01:00:45
-! Toplam Kural: 11065
+! Güncelleme: 2026-10-09 01:00:53
+! Toplam Kural: 11068
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -616,6 +616,7 @@ altyazilifilmizle3.com,evrenselfilm1.com,seyredeger.com,indirmedenfilmizle.vip##
 amp-krone-at.cdn.ampproject.org,krone.at#@#.ad-container
 anadolugazetesi.com##.genelReklamCon
 androidmakale.com###text-17
+androidoyun.club##img[style^="width: 300px; height: 300px;"]
 animehaber.com,ajanimo.com##.adace-slideup-slot-closer
 animeizlesene.com,webdramaturkey.*##.ads-embed
 animeizlesene.com,webdramaturkey2.com,webdramaturkey.*##.ads-embed
@@ -877,6 +878,7 @@ besiktas.com.tr,attyiz.biz.tr##.video_onu
 bestylemagazine.com##.grids > div[class] > .sidebar
 betewintv13.com,utanmazkizlar.com,azginkizlar.com##a[href^="https://cutt.ly/"]
 betexpertv173.live,betexpertv174.live,betexpertv175.live,betexpertv176.live,betexpertv177.live,betexpertv178.live,betexpertv179.live,betexpertv180.live,betexpertv181.live,betexpertv182.live,betexpertv183.live,betexpertv184.live,betexpertv185.live,betexpertv186.live,betexpertv187.live,betexpertv188.live,betexpertv189.live,betexpertv190.live##.pageskin
+betimtv.com##.navbar
 betistuta.club#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
 betnistvizle.com###score-board
 betnistvizle.com##div[style="text-align: center; margin: 0 auto;"] > a[target="_blank"] > img
@@ -2960,6 +2962,7 @@ justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,
 justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,justintv.*##header > a[href="/"] + ul
 justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,justintv.*#%#//scriptlet('set-constant', 'window.config.adv.enabled', '0')
 justintvsh.baby,justinttvvamphd.cfd##header > a[target="_blank"]
+justintvturkiyesh.vip,netsporgiris.pro,taraftarium24turkiye.com,taraftarium24.is,uscoutfor.com,mgviagrtoomuch.com,melidonium.com,melaniekannokada.com,taraftarium-24.pro,taraftarium24.xyz,justin-tv.pro,tvjustin.*,taraftarium.co,sadeceiptv.com,taraftariumizle.org,taraftarium24.dev,taraftarium-24.com,taraftarium-24.co,justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,justintv.cc,justintv.*#%#//scriptlet('trusted-dispatch-event', 'ended', '#preroll-video')
 justintvx30.blogspot.com,justintvxx10.blogspot.com,inattv-taraftarium24-macizle.blogspot.com,canli-mac-izle-taraftarium24-izle.blogspot.com,justintvgiris.blogspot.com,sportboss-macizlesbs.blogspot.com,taraftarium402.blogspot.com,macicanliizle.sbs,taraftarium24canli-macizlesene.blogspot.com,taraftarium24hdgiris1.blogspot.com,selcukspor-taraftarium24canliizle1.blogspot.com##.topNav > div.buttons
 justintvx30.blogspot.com,justintvxx10.blogspot.com,inattv-taraftarium24-macizle.blogspot.com,canli-mac-izle-taraftarium24-izle.blogspot.com,justintvgiris.blogspot.com,sportboss-macizlesbs.blogspot.com,taraftarium402.blogspot.com,macicanliizle.sbs,taraftarium24canli-macizlesene.blogspot.com,taraftarium24hdgiris1.blogspot.com,selcukspor-taraftarium24canliizle1.blogspot.com##div[class*="Reklam"]
 kackalori.com.tr##.Y-ReklamBG
@@ -3739,7 +3742,6 @@ neskici.com#@##reklam
 netspor.co###player-logo
 netspor.co###splash-banner
 netspor.co,kralsportshd.com#%#//scriptlet('trusted-dispatch-event', 'ended', '#preroll-video')
-netsporgiris.pro,taraftarium24turkiye.com,taraftarium24.is,uscoutfor.com,mgviagrtoomuch.com,melidonium.com,melaniekannokada.com,taraftarium-24.pro,taraftarium24.xyz,justin-tv.pro,tvjustin.*,taraftarium.co,sadeceiptv.com,taraftariumizle.org,taraftarium24.dev,taraftarium-24.com,taraftarium-24.co,justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,justintv.cc,justintv.*#%#//scriptlet('trusted-dispatch-event', 'ended', '#preroll-video')
 netsporgiris.pro,taraftarium24turkiye.com,uscoutfor.com,mgviagrtoomuch.com,melidonium.com,melaniekannokada.com,taraftarium-24.pro,taraftarium24.xyz,tvjustin.*,taraftarium.co,sadeceiptv.com,taraftariumizle.org,taraftarium24.dev,taraftarium-24.co,taraftarium-24.com,justin-tv.pro,taraftarium24.is,justintvsh.baby,dmlstechnology.com,justintvde.com,justin-tv.org,inattvgiris.pro,justintv.cc,justintv.*###splash-banner
 nirvanamanga.com,mangawt.com##div[class^="popup"][class$="wrap"][id]
 nnchaber.com##.col-lg-11 > div[style^="min-height:"].row
@@ -4003,9 +4005,9 @@ pasada.com.tr##.bc_random_banner
 pasada.com.tr##img[width="160"][height="600"]
 pasada.com.tr,karabukmeydanhaber.com##img[width="160"][height="600"]
 passporterstore.com,istanbulticaretgazetesi.com,timeturk.com##div[class*="reklam-"]
-patrongol37.cfd##.background-link
-patrongol37.cfd##.top-banner-header
-patrongol37.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patrongol37.cfd,patrongol38.cfd##.background-link
+patrongol37.cfd,patrongol38.cfd##.top-banner-header
+patrongol37.cfd,patrongol38.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 patronlardunyasi.com,altinpalmiye.com,servers-mc.net##.ads
@@ -6711,6 +6713,7 @@ zirvedehaber.com##.header-ainfo
 ||betendads.com^
 ||betewintv*.com/view/theme/safir/img/betetwinpageskin.jpg
 ||betexpertv*.live/wp-content/uploads/
+||betimtv.com/theme-images/
 ||betivotv*.com/Uploads/*.gif
 ||betkanyon100.com^
 ||betkanyon100.com^$third-party
@@ -6775,7 +6778,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=/kralsportshd\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/mahsunsports\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/pasizle\d+\.com$/
-||blogger.googleusercontent.com/img/$domain=/patron(live\|futbol)\d+\.cfd$/
+||blogger.googleusercontent.com/img/$domain=/patron(live\|futbol\|hd)\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patronlig\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patronmac\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/restizle\d+\.com$/
@@ -6786,11 +6789,11 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com
 ||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com|inattvgiris.pro|selcuksports.*|selcuk-sports.com|taraftarium.*|selcuksportss.*|hudsonlegalblog.com|taraftariumlive.com|inatspor.xyz|utanmazkizlar.com
 ||blogger.googleusercontent.com/img/$domain=justintvsh.baby|justinttvvamphd.cfd
+||blogger.googleusercontent.com/img/$domain=justintvturkiyesh.vip|netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.com|taraftarium-24.co|tvjustin.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||blogger.googleusercontent.com/img/$domain=justintvx30.blogspot.com|justintvxx10.blogspot.com|inattv-taraftarium24-macizle.blogspot.com|canli-mac-izle-taraftarium24-izle.blogspot.com|justintvgiris.blogspot.com|sportboss-macizlesbs.blogspot.com|taraftarium402.blogspot.com|macicanliizle.sbs|taraftarium24canli-macizlesene.blogspot.com|taraftarium24hdgiris1.blogspot.com|selcukspor-taraftarium24canliizle1.blogspot.com|hdtaraftartv1000.blogspot.com|efo-bf.net|taraftariumizle.in|pressedfur.com
 ||blogger.googleusercontent.com/img/$domain=mahsunsports.xyz
-||blogger.googleusercontent.com/img/$domain=netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.com|taraftarium-24.co|tvjustin.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
-||blogger.googleusercontent.com/img/$domain=patrongol37.cfd
+||blogger.googleusercontent.com/img/$domain=patrongol37.cfd|patrongol38.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
@@ -7066,8 +7069,8 @@ zirvedehaber.com##.header-ainfo
 ||cdn.jsdelivr.net/gh/lookatusdoweneedu/v/*.mp4
 ||cdn.jsdelivr.net/gh/quantum-jquery/v*/ad-v*.min.js
 ||cdn.jsdelivr.net^$media,redirect=noopmp3-0.1s,domain=/mahsunsports\d+\.xyz$/
+||cdn.jsdelivr.net^$media,redirect=noopmp3-0.1s,domain=justintvturkiyesh.vip|netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.co|taraftarium-24.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||cdn.jsdelivr.net^$media,redirect=noopmp3-0.1s,domain=mahsunsports.xyz
-||cdn.jsdelivr.net^$media,redirect=noopmp3-0.1s,domain=netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.co|taraftarium-24.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||cdn.kanal7.com/ulketv/ads/$subdocument
 ||cdn.klasseo.com^
 ||cdn.klasseo.com^$third-party
