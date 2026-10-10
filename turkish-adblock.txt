@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-09 01:00:53
+! Güncelleme: 2026-10-10 01:00:49
 ! Toplam Kural: 11068
 ! ============================================
 
@@ -2947,7 +2947,7 @@ justintv-canlimacizle.com###ouibounce-modal
 justintv.*##.stream-item-top-wrapper
 justintv.*##div[id^="stream-item"]
 justintvizle21.pro##+js(set-constant, puShown, true)
-justintvizle735.top###video_reklam
+justintvizle736.top,justintvizle737.top,justintvizle738.top,justintvizle739.top,justintvizle740.top###video_reklam
 justintvizlehd.xyz##a[href^="https://heylink.me/"]
 justintvizlehd.xyz##div[data-adv-link]
 justintvizlehd.xyz##div[data-adv]
@@ -4005,9 +4005,9 @@ pasada.com.tr##.bc_random_banner
 pasada.com.tr##img[width="160"][height="600"]
 pasada.com.tr,karabukmeydanhaber.com##img[width="160"][height="600"]
 passporterstore.com,istanbulticaretgazetesi.com,timeturk.com##div[class*="reklam-"]
-patrongol37.cfd,patrongol38.cfd##.background-link
-patrongol37.cfd,patrongol38.cfd##.top-banner-header
-patrongol37.cfd,patrongol38.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patrongol38.cfd##.background-link
+patrongol38.cfd##.top-banner-header
+patrongol38.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 patronlardunyasi.com,altinpalmiye.com,servers-mc.net##.ads
@@ -6793,7 +6793,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=justintvx30.blogspot.com|justintvxx10.blogspot.com|inattv-taraftarium24-macizle.blogspot.com|canli-mac-izle-taraftarium24-izle.blogspot.com|justintvgiris.blogspot.com|sportboss-macizlesbs.blogspot.com|taraftarium402.blogspot.com|macicanliizle.sbs|taraftarium24canli-macizlesene.blogspot.com|taraftarium24hdgiris1.blogspot.com|selcukspor-taraftarium24canliizle1.blogspot.com|hdtaraftartv1000.blogspot.com|efo-bf.net|taraftariumizle.in|pressedfur.com
 ||blogger.googleusercontent.com/img/$domain=mahsunsports.xyz
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
-||blogger.googleusercontent.com/img/$domain=patrongol37.cfd|patrongol38.cfd
+||blogger.googleusercontent.com/img/$domain=patrongol38.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
