@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-10 01:00:49
-! Toplam Kural: 11068
+! Güncelleme: 2026-10-11 01:00:50
+! Toplam Kural: 11069
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1276,6 +1276,7 @@ dafflix.net##.footer-bottom > p[style] ~ *
 dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
 dalamantv.com##.esnekreklam
 ddizi.im##.df-ovrly-lnk-p1
+ddizimag.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', '/popup/i')
 defenceturk.net###custom_html-4
 defenceturk.net##.defen-orta
 defenceturk.net##a[id$="_banner"]
