@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-12 01:00:51
-! Toplam Kural: 11069
+! Güncelleme: 2026-10-13 01:00:52
+! Toplam Kural: 11071
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -6521,6 +6521,7 @@ zirvedehaber.com##.header-ainfo
 ||api3.siftscience.com^
 ||apis.google.com/js/plusone.js$third-party
 ||apis.kostprice.com^
+||apk-2.online^$third-party
 ||apkindir.com/yonlen111.js
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
@@ -10241,6 +10242,7 @@ zirvedehaber.com##.header-ainfo
 ||stopblyat.tk^
 ||storage.cloud.kargo.com^
 ||storage.fintables.com/media/uploads/ads/
+||storage.googleapis.com^$domain=log.com.tr
 ||storage.multstorage.com^
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||storagemw.s*.amazonaws.com/Gravity/doganfooter.js
