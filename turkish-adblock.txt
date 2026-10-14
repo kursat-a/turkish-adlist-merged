@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-13 01:00:52
-! Toplam Kural: 11071
+! Güncelleme: 2026-10-14 01:00:50
+! Toplam Kural: 11079
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -225,13 +225,16 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 08haber.com##.reklam4
 08macvartv.live##.pageskin
 1000kitap.com##.dr > div[style$="min-width: 300px; min-height: 250px;"]
+1000kitap.com##.mr-2 .flex-col > .relative > div > .pb-4:has(> .overflow-hidden > .flex-row > button[aria-label="Reklam"])
 1000kitap.com##.right-4.mb-4.bottom-alt-menu.z-index-ultra.rounded-4.fixed.pv-6.ph-6.border-cizgi.max-w-90vw.border-t.mt-2.gap-4.shadow.bg-ana.dr
 1000kitap.com##div[align="center"] > div[style="display: flex; min-height: 250px; min-width: 300px;"]
 1000kitap.com##div[align="center"] > div[style="display:flex;min-height:250px;min-width:300px"]
+1000kitap.com##div[role="main"] section a[aria-label="Sponsorlu"]
 1000kitap.com##section.dr.w-full.min-h-100vh > div.relative a[target="_blank"]:has(> div > img)
 1000kitap.com##section.dr.w-full.min-h-100vh > div.relative div:not([class]) > div[class]:has(button[aria-label="Reklam"])
 1000kitap.com##section.dr.w-full.min-h-100vh > div.relative:has(span:contains(Reklam))
 1000kitap.com#?#div.min-h-100vh div.dr:has(> .dr.bg-gri:empty)
+1000kitap.com#?#section.dr.w-full.min-h-100vh > div.relative div.overflow-hidden:has(div.items-start > a ~ span:contains(Reklam))
 1000kitap.com#?#section.dr.w-full.min-h-100vh > div.relative div[style]:has(span:contains(Reklam))
 1080hdfilmizle.com##div[align="center"] > a[href][target="_blank"] > img
 1080pizle.net#$##cn-content { display: block !important; }
@@ -4601,6 +4604,7 @@ sporx.com##a[href^="https://iddaa.sporx.com/"]
 sporx.com##div[id^="dfp_"]
 sporx.com##div[style$="position: relative; margin-top: 10px; min-height: 350px;"]
 sporx.com##div[style*="min-height: 250px;"][style*="text-align: center;"]
+sporx.com##div[style*="width: 100%;"][style*="height: 250px;"]
 sporx.com##div[style^="float:left; width:300px; min-height:250px;"]
 sporx.com##div[style^="width: 650px;"] > div > a[href^="http://bit.ly/"]
 sporx.com##iframe[src^="https://www.sporx.com/_iframe/mac-merkezi/scoreboard_bilyoner"]
@@ -4995,6 +4999,9 @@ turizmgazetesi.com###SliderReklam
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
 turizmgazetesi.com##header > div.container > div[class^="fixed"]
+turizmguncel.com##aside[data-side-rail]
+turizmguncel.com##body > div.fixed:has(> div[data-ad-slot])
+turizmguncel.com##main > div > div.border-gray-100:has(> div.container-content > div.ad-slot)
 turizmhabermerkezi.net,gazetegercek.com.tr,aykiri.com.tr,afyonkenthaber.com,tamgaturk.com##.post-body > .img_position_left
 turizmhabermerkezi.net,gazetegercek.com.tr,aykiri.com.tr,afyonkenthaber.com,tamgaturk.com,ulusalhaber.com.tr##.post-body > .img_position_left
 turizmprojedergisi.com,doviz.com,gundemkibris.com,ulasimonline.com##div[class^="banner"]
@@ -5783,6 +5790,7 @@ zirvedehaber.com##.header-ainfo
 ||195.33.251.69^
 ||1dfb4z-inapps.appsflyersdk.com^
 ||1dfb4z-launches.appsflyersdk.com^
+||1k-cdn.com/resimler/billboard/$domain=1000kitap.com
 ||1rx.io^
 ||1win-cdn.com/promo-files-uploads/$domain=dizirella.com
 ||209176.hit.gemius.pl^
