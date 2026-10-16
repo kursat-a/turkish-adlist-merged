@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-15 01:00:51
-! Toplam Kural: 11081
+! Güncelleme: 2026-10-16 01:00:53
+! Toplam Kural: 11082
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -8933,6 +8933,7 @@ zirvedehaber.com##.header-ainfo
 ||media.*.com/renderimage.aspx?pid=$third-party
 ||media.bantmag.com/wp-content/uploads/*_1140x250.
 ||media.betexperaff.com^
+||media.cumhuriyet.com.tr/assets/js/cmhads.js
 ||media.dunyabulteni.net/banner/
 ||media.ethicalads.io^
 ||media.fastclick.net^
