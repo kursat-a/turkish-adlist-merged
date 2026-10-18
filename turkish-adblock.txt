@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-17 01:00:48
-! Toplam Kural: 11082
+! Güncelleme: 2026-10-18 01:00:46
+! Toplam Kural: 11084
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1568,6 +1568,7 @@ dramadizilerim.com#$#body { overflow: auto !important; }
 dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/\.offsetHeight[\s]*?===[\s]*?0|pagead2\.googlesyndication\.com/')
 dramadizilerim.com#%#//scriptlet('prevent-fetch', 'llvpn.com/tag.min.js')
 dramadizilerim.com#@#.ad-slot
+dramadunyam.com##.engel-duvar
 dramaflix.cc#%#//scriptlet('set-constant', '__DRAMAFLIX_NO_ADS__', 'true')
 dreamfancy.org##a[href*="epincity.net/"][target="_blank"]
 driverdestek.com##.adsbygoogle
@@ -3772,6 +3773,7 @@ ntv.com.tr##[class^="dygad-"]
 ntv.com.tr##[class^="dygad-"] + .ros
 ntv.com.tr##a[href^="http://pubads.g.doubleclick.net"]
 ntv.com.tr##div[class^="taboola-"]
+ntv.com.tr##main.w-full > div.container.mx-auto:has(a[href^="http://pubads.g.doubleclick.net/"])
 ntv.com.tr#?#.slick-track > div.slick-slide > div > div.ntv-main-slider-item:has(> a[href^="http://pubads.g.doubleclick.net/"])
 ntv.com.tr#?#.slick-track > div.slick-slide > div > li.ntv-main-slider-pagination-item:has(> a[href^="http://pubads.g.doubleclick.net/"])
 ntv.com.tr,tlctv.com.tr,dmax.com.tr,haberturk.com,bloomberght.com,aspor.com.tr,atv.com.tr,beyaztv.com.tr,kanal7.com,kanald.com.tr,showtv.com.tr,startv.com.tr,teve2.com.tr,tv8.com.tr,tv8bucuk.com,tabii.com,trtizle.com###daion-overlay-container > #single-ad-timer ~ #daion-c2a-std
