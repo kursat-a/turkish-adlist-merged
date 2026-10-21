@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-20 01:00:47
-! Toplam Kural: 11084
+! Güncelleme: 2026-10-21 01:00:52
+! Toplam Kural: 11085
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -4763,6 +4763,7 @@ technopat.net##.bgads
 technopat.net##.p-body-sidebar > .samCodeUnit
 technopat.net##.samBackground > a[href][target="_blank"].samBackgroundItem
 technopat.net##.samLinkUnit
+technopat.net##.tp-ad-zone
 technopat.net##.widget_jnews_module_element_ads
 technopat.net##div[class^="Advertisement"]
 technopat.net##div[style="width: 728px; height: 90px;"]
