@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-22 01:00:54
+! Güncelleme: 2026-10-23 01:00:51
 ! Toplam Kural: 11086
 ! ============================================
 
@@ -7560,6 +7560,7 @@ zirvedehaber.com##.header-ainfo
 ||dizigom1.tv/*.gif
 ||dizihot.com/img/hititbet_*.mp4$media,redirect=noop-1s.mp4
 ||dizihot.com/img/hititbet_*.mp4$media,redirect=noopmp4-1s
+||diziizle.wiki/e/s$xmlhttprequest
 ||dizikorea.pw/rklm/
 ||diziloop.com/wp-content/uploads/*0x*.gif
 ||dizilost.com/popunderxx.js
@@ -10724,7 +10725,6 @@ zirvedehaber.com##.header-ainfo
 ||venediktaciri.com^$third-party
 ||venetrigni.com^
 ||veracdn.xyz^
-||verbraucherzentrale.de/plugins/HeatmapSessionRecording/
 ||veryansintv.com/wp-content/uploads/2025/01/o4yrakp.png
 ||vi.ml314.com^
 ||viadata.store^
