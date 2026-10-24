@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-23 01:00:51
-! Toplam Kural: 11086
+! Güncelleme: 2026-10-24 01:00:50
+! Toplam Kural: 11085
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -3886,6 +3886,7 @@ onedio.com##.scrollhelper
 onedio.com##.sidebar > div[class^="bg-[#f7f8fb]"]
 onedio.com##.social-controls.floating
 onedio.com##.sponsored
+onedio.com##.theme-brand
 onedio.com##.toyota-syi-content-bant
 onedio.com##[class="common-box common-box-300px featured"]
 onedio.com##a[href^="http://onelink.to"]
@@ -4011,7 +4012,6 @@ pasada.com.tr##.bc_random_banner
 pasada.com.tr##img[width="160"][height="600"]
 pasada.com.tr,karabukmeydanhaber.com##img[width="160"][height="600"]
 passporterstore.com,istanbulticaretgazetesi.com,timeturk.com##div[class*="reklam-"]
-patrongol41.cfd##.background-link
 patrongol41.cfd##.top-banner-header
 patrongol41.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
 patronlardunyasi.com##.Ads
@@ -6793,11 +6793,10 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=/kralsportshd\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/mahsunsports\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/pasizle\d+\.com$/
+||blogger.googleusercontent.com/img/$domain=/patron(lig\|saha)\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patron(live\|futbol\|hd)\d+\.cfd$/
-||blogger.googleusercontent.com/img/$domain=/patronlig\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patronmac\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/restizle\d+\.com$/
-||blogger.googleusercontent.com/img/$domain=/restmacizle\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/taraftarium\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/trgoals\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=fullhddizifilmizle2.net|fullhddizifilmizle3.net|fullhddizifilmizle4.net|fullhddizifilmizle5.net|fullhddizifilmizle6.net|fullhddizifilmizle7.net|fullhddizifilmizle8.net|fullhddizifilmizle9.net|fullhddizifilmizle10.net|fullhddizifilmizle11.net|fullhddizifilmizle12.net|fullhddizifilmizle13.net|fullhddizifilmizle14.net|fullhddizifilmizle15.net|fullhddizifilmizle16.net|fullhddizifilmizle17.net|fullhddizifilmizle18.net|fullhddizifilmizle19.net|fullhddizifilmizle20.net|fullhddizifilmizle21.net|fullhddizifilmizle22.net|fullhddizifilmizle23.net|fullhddizifilmizle24.net|fullhddizifilmizle25.net|fullhddizifilmizle26.net|fullhddizifilmizle27.net|fullhddizifilmizle28.net|mgviagrtoomuch.com|taraftarium-24.com
