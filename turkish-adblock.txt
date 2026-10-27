@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-26 01:00:50
+! Güncelleme: 2026-10-27 01:00:48
 ! Toplam Kural: 11085
 ! ============================================
 
@@ -6808,7 +6808,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=mahsunsports.xyz
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
 ||blogger.googleusercontent.com/img/$domain=patrongol41.cfd
-||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
+||blogger.googleusercontent.com/img/$domain=patronmac102.cfd
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
 ||blogger.googleusercontent.com/img/*/pshg-min-min.gif
@@ -7078,7 +7078,7 @@ zirvedehaber.com##.header-ainfo
 ||cdn.itemci.com/storage/images/rek/
 ||cdn.izooto.com^
 ||cdn.jsdelivr.net/*.mp4$domain=/patronmac\d+\.cfd$/
-||cdn.jsdelivr.net/*.mp4$domain=patronmac101.cfd
+||cdn.jsdelivr.net/*.mp4$domain=patronmac102.cfd
 ||cdn.jsdelivr.net/gh/jwplayer-pixel/jw@main/vast.js
 ||cdn.jsdelivr.net/gh/lookatusdoweneedu/v/*.mp4
 ||cdn.jsdelivr.net/gh/quantum-jquery/v*/ad-v*.min.js
