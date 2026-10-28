@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-27 01:00:48
+! Güncelleme: 2026-10-28 01:00:51
 ! Toplam Kural: 11085
 ! ============================================
 
@@ -4186,7 +4186,7 @@ rotaborsa.com##.sticky-top-ad
 rotaborsa.com#$#body { padding-top: 0 !important; }
 rotaborsa.com#%#//scriptlet('trusted-replace-node-text', 'body', '-->', '/^-->$/', '')
 royalfilmizle.com,fulltimehdfilmizle.*,jetfilmizletv.net,evrenselfilm1.com,altyazilifilmizle3.com,indirmedenfilmizle.vip,fullfilmizle.*,izlehdfilm.net,1080pizle.net,tekparthdfilmizle.com,fullhdizle.*##.footer-sticky
-royaltv38.com##a[href^="https://t2ly.io/"]
+royaltv39.com##a[href^="https://t2ly.io/"]
 ruya-manga.com##.body-wrap > p[style="text-align: center;"]
 ruya-manga.com##a[href="https://cutt.ly/reklamsizokuma"]
 ruyalar.net##.site > div.code-block[style^="position: fixed; z-index: 999"]
