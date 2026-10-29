@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-10-28 01:00:51
-! Toplam Kural: 11085
+! Güncelleme: 2026-10-29 01:00:52
+! Toplam Kural: 11088
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -4018,6 +4018,7 @@ patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 patronlardunyasi.com,altinpalmiye.com,servers-mc.net##.ads
 patronspor.is##.bonus-list
+patronspor.is##a[rel="sponsored noopener"]
 pazarlamasyon.com###ctl00_divMasthead
 pchocasi.com.tr###background-adser
 pchocasi.com.tr##+js(set-constant, td_ad_background_click_link, '')
@@ -9357,6 +9358,8 @@ zirvedehaber.com##.header-ainfo
 ||partnersapi.bilio.com^
 ||partnerx.bethub.io^
 ||partnerx.bethub.io^$all
+||pasgoliptv*.site/view/theme/ultimate/assets/js/rc.js
+||pasgoliptv*.site/view/theme/ultimate/img/*.gif
 ||pasizle*.com/assets/uploads/banners/
 ||pasizle*.com/assets/uploads/settings/player_bg_*.jpg
 ||paykasasitesi.com^
