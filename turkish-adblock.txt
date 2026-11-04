@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-03 01:00:53
-! Toplam Kural: 11088
+! Güncelleme: 2026-11-04 01:00:52
+! Toplam Kural: 11092
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -21,6 +21,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 .com/bannerlar/
 .com/rek/
 .gif$domain=/betanotv\d+\.site$/
+.gif$image,domain=/bahisotv\d+\.com$/
 .gif$third-party,domain=filmgo.org|hdfilmcehennemi3.com
 .gif$third-party,domain=hdfilmcehennemi3.com
 .gif$~third-party,domain=giynikgazetesi.com|hdfilmcehennemi3.com
@@ -4381,6 +4382,7 @@ shiftdelete.net##.thb-ad
 shiftdelete.net##.thb-article-bottom-ad
 shiftdelete.net##.thb-sponsored-content-container
 shiftdelete.net##.widget.gittigidiyor_firsat_urunleri
+shiftdelete.net##body > div#header-container:has(> div#mastheadslot)
 shiftdelete.net#?#.sidebar > div[id^="custom_html-"] > .textwidget > .thb-ad:upward(2)
 shirl.club##div[class^="shirl-icerikten-"]
 shirl.club,altporno.xyz##+js(abort-on-property-read, oV1)
@@ -6660,6 +6662,7 @@ zirvedehaber.com##.header-ainfo
 ||bahisnowtv*.com/Uploads/*_Bahisnow_TV_Pageskin*.jpg
 ||bahisotv*.com/banner
 ||bahisşirketleri*.com/wp-content/html-tables/$third-party
+||bahsinetv*.site/view/theme/ultimate/img/*.gif
 ||bakirkoydenhaber.com/wp-content/uploads/*/Webp.net-gifmaker-4.gif
 ||baltar.dimml.io^
 ||bam-cell.nr-data.net^
@@ -7004,6 +7007,7 @@ zirvedehaber.com##.header-ainfo
 ||cdn.amplitude.com^
 ||cdn.appdynamics.com^
 ||cdn.appround.biz^
+||cdn.asekyazilim.pro^$media,domain=/bahisotv\d+\.com$/
 ||cdn.avmws.com^
 ||cdn.banhq.com^
 ||cdn.bannersnack.com^
