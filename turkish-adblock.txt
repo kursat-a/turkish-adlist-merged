@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-05 01:00:54
-! Toplam Kural: 11093
+! Güncelleme: 2026-11-06 01:00:50
+! Toplam Kural: 11096
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2533,6 +2533,7 @@ haberturk.com##ht-section[data-section="manset2reklam"]
 haberturk.com##ht-section[data-section^="advertisement"]
 haberturk.com##ht-section[data-section^="masthead"]
 haberturk.com##iframe[src*="/ads/"]
+haberturk.com##section[data-adv]
 haberturk.com#?#.master-slider > div.swiper-wrapper > div.swiper-slide:has(> div > a[href^="https://adsp.haberturk.com/"])
 haberturk.com#?#.sidebar-content-infinite > div.wrapper:has(> div > div.ads-zone)
 haberturk.com/scripts/popupanket.js?*
@@ -4722,9 +4723,9 @@ taraftarium-24tv.com##a[href^="https://bit.ly/"]
 taraftarium.co##.topDuyuru
 taraftarium.co##div[class^="adsPanel"]
 taraftarium.tr##.stream-item-widget
-taraftarium24bjk17.com,taraftarium24tvizle.com###ad-pageskin
-taraftarium24bjk17.com,taraftarium24tvizle.com##.playerStrip
-taraftarium24bjk17.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
+taraftarium24bjk27.com,taraftarium24tvizle.com###ad-pageskin
+taraftarium24bjk27.com,taraftarium24tvizle.com##.playerStrip
+taraftarium24bjk27.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
 taraftarium24canlimacyayini.online,dizifilmbox.*##a[target="_blank"] > img[width="100%"][height="100%"]
 taraftarium24tvizle.com##.listAd
 taraftarium3-24.online##a[href="https://wa.me/447347044673"]
@@ -6814,6 +6815,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
 ||blogger.googleusercontent.com/img/$domain=patrongol42.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac102.cfd
+||blogger.googleusercontent.com/img/$domain=taraftarium24bjk27.com
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
 ||blogger.googleusercontent.com/img/*/pshg-min-min.gif
@@ -10738,6 +10740,7 @@ zirvedehaber.com##.header-ainfo
 ||viagna.com/imgs/*.gif
 ||viagraeci.com/selcuksports/imgs/
 ||video-ad-stats.googlesyndication.com^
+||video.bsky.app/watch/*/playlist.m3u8$domain=taraftarium24bjk27.com
 ||video.ktkjmp.com^
 ||video.mcpuwpsh.com^
 ||video.mnaspm.com^
