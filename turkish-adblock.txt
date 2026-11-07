@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-06 01:00:50
-! Toplam Kural: 11096
+! Güncelleme: 2026-11-07 01:00:48
+! Toplam Kural: 11107
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2827,6 +2827,9 @@ illerarasimesafe.com##div[class^="adRes"]
 imarhaber.com,bolupostasi.com,bozuyukhaberajansi.com,yenicagri.com,businesschannel.com.tr,onlarnediyo.com,medyaayvalik.com##.splash-popup
 inatflix9.xyz##div[style^="bottom:0;height:50px;"]
 inatspor.xyz,evrimagaci.org,wmaraci.com##.ads-container
+inattv.co,inat-tv.org###splash-banner
+inattv.live##.cpa-video-banner
+inattv.live,inattv.co,inat-tv.org#%#//scriptlet('trusted-dispatch-event', 'ended', '#preroll-video')
 inattv454.xyz,inattv455.xyz,inattv456.xyz,inattv457.xyz,inattv458.xyz,inattv459.xyz,inattv460.xyz,inattv461.xyz,inattv462.xyz,inattv463.xyz,inattv464.xyz,inattv465.xyz,inattv466.xyz,inattv467.xyz,inattv468.xyz,inattv469.xyz,inattv470.xyz,inattv471.xyz,inattv472.xyz,inattv473.xyz,inattv474.xyz,inattv475.xyz,inattv476.xyz,inattv477.xyz,inattv478.xyz,inattv479.xyz,inattv480.xyz,inattv481.xyz,inattv482.xyz,inattv483.xyz,inattv484.xyz,inattv485.xyz,inattv486.xyz,inattv487.xyz,inattv488.xyz,inattv489.xyz,inattv490.xyz,inattv491.xyz,inattv492.xyz,inattv493.xyz,inattv494.xyz,inattv495.xyz,inattv496.xyz,inattv497.xyz,inattv498.xyz,inattv499.xyz,inattv500.xyz##+js(set-constant, config.adv, {})
 inattv454.xyz,inattv455.xyz,inattv456.xyz,inattv457.xyz,inattv458.xyz,inattv459.xyz,inattv460.xyz,inattv461.xyz,inattv462.xyz,inattv463.xyz,inattv464.xyz,inattv465.xyz,inattv466.xyz,inattv467.xyz,inattv468.xyz,inattv469.xyz,inattv470.xyz,inattv471.xyz,inattv472.xyz,inattv473.xyz,inattv474.xyz,inattv475.xyz,inattv476.xyz,inattv477.xyz,inattv478.xyz,inattv479.xyz,inattv480.xyz,inattv481.xyz,inattv482.xyz,inattv483.xyz,inattv484.xyz,inattv485.xyz,inattv486.xyz,inattv487.xyz,inattv488.xyz,inattv489.xyz,inattv490.xyz,inattv491.xyz,inattv492.xyz,inattv493.xyz,inattv494.xyz,inattv495.xyz,inattv496.xyz,inattv497.xyz,inattv498.xyz,inattv499.xyz,inattv500.xyz##.contentReklam
 inattv454.xyz,inattv455.xyz,inattv456.xyz,inattv457.xyz,inattv458.xyz,inattv459.xyz,inattv460.xyz,inattv461.xyz,inattv462.xyz,inattv463.xyz,inattv464.xyz,inattv465.xyz,inattv466.xyz,inattv467.xyz,inattv468.xyz,inattv469.xyz,inattv470.xyz,inattv471.xyz,inattv472.xyz,inattv473.xyz,inattv474.xyz,inattv475.xyz,inattv476.xyz,inattv477.xyz,inattv478.xyz,inattv479.xyz,inattv480.xyz,inattv481.xyz,inattv482.xyz,inattv483.xyz,inattv484.xyz,inattv485.xyz,inattv486.xyz,inattv487.xyz,inattv488.xyz,inattv489.xyz,inattv490.xyz,inattv491.xyz,inattv492.xyz,inattv493.xyz,inattv494.xyz,inattv495.xyz,inattv496.xyz,inattv497.xyz,inattv498.xyz,inattv499.xyz,inattv500.xyz##.topDuyuru
@@ -4964,6 +4967,8 @@ trhaber.com#%#//scriptlet('remove-attr', 'href', 'a[href*="eminevim"]')
 trhaber.com,enbursa.com##.ads-area
 trhaber.com.tr##div.relative:has(> div[id^="div-gpt-ad"])
 trhaber.com.tr##div[style^="min-height:"][style*="250px"]
+tribuntv.online##.tenant-player-poster-loading
+tribuntv.online##div[style^="position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 2147483647; background-color:"]
 trivago.com.tr##div[class^="Ad_leaderboard-"]
 trivago.com.tr##div[class^="SkyscraperAd_"]
 trivago.com.tr##ol[data-testid="accommodation-list"] > li[data-testid="accommodation-list-element"] ~ li[class="flex items-center justify-center"]
@@ -6799,7 +6804,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=/kralsportshd\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/mahsunsports\d+\.xyz$/
 ||blogger.googleusercontent.com/img/$domain=/pasizle\d+\.com$/
-||blogger.googleusercontent.com/img/$domain=/patron(lig\|saha)\d+\.cfd$/
+||blogger.googleusercontent.com/img/$domain=/patron(lig\|saha\|izle)\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patron(live\|futbol\|hd)\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/patronmac\d+\.cfd$/
 ||blogger.googleusercontent.com/img/$domain=/restizle\d+\.com$/
@@ -6808,6 +6813,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=fullhddizifilmizle2.net|fullhddizifilmizle3.net|fullhddizifilmizle4.net|fullhddizifilmizle5.net|fullhddizifilmizle6.net|fullhddizifilmizle7.net|fullhddizifilmizle8.net|fullhddizifilmizle9.net|fullhddizifilmizle10.net|fullhddizifilmizle11.net|fullhddizifilmizle12.net|fullhddizifilmizle13.net|fullhddizifilmizle14.net|fullhddizifilmizle15.net|fullhddizifilmizle16.net|fullhddizifilmizle17.net|fullhddizifilmizle18.net|fullhddizifilmizle19.net|fullhddizifilmizle20.net|fullhddizifilmizle21.net|fullhddizifilmizle22.net|fullhddizifilmizle23.net|fullhddizifilmizle24.net|fullhddizifilmizle25.net|fullhddizifilmizle26.net|fullhddizifilmizle27.net|fullhddizifilmizle28.net|mgviagrtoomuch.com|taraftarium-24.com
 ||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com
 ||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com|inattvgiris.pro|selcuksports.*|selcuk-sports.com|taraftarium.*|selcuksportss.*|hudsonlegalblog.com|taraftariumlive.com|inatspor.xyz|utanmazkizlar.com
+||blogger.googleusercontent.com/img/$domain=inat-tv.org|inattv.co
 ||blogger.googleusercontent.com/img/$domain=justintvsh.baby|justinttvvamphd.cfd
 ||blogger.googleusercontent.com/img/$domain=justintvturkiyesh.vip|netsporgiris.pro|taraftarium24turkiye.com|taraftarium24.is|melaniekannokada.com|taraftarium-24.pro|justintvsh.baby|dmlstechnology.com|justintvde.com|justin-tv.org|inattvgiris.pro|justintv.cc|justintv.*|taraftariumizle.org|taraftarium24.dev|taraftarium-24.com|taraftarium-24.co|tvjustin.com|tvjustin.*|sadeceiptv.com|justin-tv.pro|taraftarium24.xyz|taraftarium.co|melidonium.com|mgviagrtoomuch.com|uscoutfor.com
 ||blogger.googleusercontent.com/img/$domain=justintvx30.blogspot.com|justintvxx10.blogspot.com|inattv-taraftarium24-macizle.blogspot.com|canli-mac-izle-taraftarium24-izle.blogspot.com|justintvgiris.blogspot.com|sportboss-macizlesbs.blogspot.com|taraftarium402.blogspot.com|macicanliizle.sbs|taraftarium24canli-macizlesene.blogspot.com|taraftarium24hdgiris1.blogspot.com|selcukspor-taraftarium24canliizle1.blogspot.com|hdtaraftartv1000.blogspot.com|efo-bf.net|taraftariumizle.in|pressedfur.com
@@ -7087,6 +7093,7 @@ zirvedehaber.com##.header-ainfo
 ||cdn.izooto.com^
 ||cdn.jsdelivr.net/*.mp4$domain=/patronmac\d+\.cfd$/
 ||cdn.jsdelivr.net/*.mp4$domain=patronmac102.cfd
+||cdn.jsdelivr.net/gh/$media,redirect=noopmp3-0.1s,domain=inat-tv.org|inattv.co
 ||cdn.jsdelivr.net/gh/jwplayer-pixel/jw@main/vast.js
 ||cdn.jsdelivr.net/gh/lookatusdoweneedu/v/*.mp4
 ||cdn.jsdelivr.net/gh/quantum-jquery/v*/ad-v*.min.js
@@ -8683,6 +8690,9 @@ zirvedehaber.com##.header-ainfo
 ||kaspersky-labs.com^
 ||kaspersky.com^
 ||kayseriolay.com/upload/html-content/$image
+||kazansanatv*.com/KazansanaTV_AD*.mp4
+||kazansanatv*.com/view/theme/ultimate/assets/js/rc.js
+||kazansanatv*.com/view/theme/ultimate/img/NEWgif*.webp
 ||keskin-pop.vip^
 ||keskin.vip^
 ||kgfjrb711.com^
@@ -10559,6 +10569,7 @@ zirvedehaber.com##.header-ainfo
 ||trgoals*.xyz/images/ikimisli*.gif
 ||trgooltv*.top/assets/img/*.gif
 ||trhaber.com/advertisements/
+||tribuntv.online/media/tenants/$image
 ||triggit.com^
 ||trinklink.com^$third-party
 ||trk.indoleads.com^
