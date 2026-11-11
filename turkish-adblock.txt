@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-10 01:01:00
-! Toplam Kural: 11108
+! Güncelleme: 2026-11-11 01:00:49
+! Toplam Kural: 11110
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -224,7 +224,6 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 08haber.com###sag > .s > img[src^="/images/372x"]
 08haber.com###sag > .s5
 08haber.com##.reklam4
-08macvartv.live##.pageskin
 1000kitap.com##.dr > div[style$="min-width: 300px; min-height: 250px;"]
 1000kitap.com##.mr-2 .flex-col > .relative > div > .pb-4:has(> .overflow-hidden > .flex-row > button[aria-label="Reklam"])
 1000kitap.com##.right-4.mb-4.bottom-alt-menu.z-index-ultra.rounded-4.fixed.pv-6.ph-6.border-cizgi.max-w-90vw.border-t.mt-2.gap-4.shadow.bg-ana.dr
@@ -1696,6 +1695,8 @@ emlakjet.com##._3wHMMW
 emlakjet.com##div[class^="styles_ad"]
 emlakjet.com##div[class^="styles_bannerWrapper__"]
 emlakjet.com##div[class^="styles_listingDfpBanner__"]
+emlakjet.com##div[data-listing-ad-host]
+emlakjet.com##section[aria-label="Sponsorlu"]
 emlaklobisi.com###regular-header > div.container> div.widget-header
 emlaklobisi.com,bodrumolay.com###custom_html-5
 emlakmanset.com##div[id^="nuifm-"]
@@ -4193,7 +4194,7 @@ rotaborsa.com##.sticky-top-ad
 rotaborsa.com#$#body { padding-top: 0 !important; }
 rotaborsa.com#%#//scriptlet('trusted-replace-node-text', 'body', '-->', '/^-->$/', '')
 royalfilmizle.com,fulltimehdfilmizle.*,jetfilmizletv.net,evrenselfilm1.com,altyazilifilmizle3.com,indirmedenfilmizle.vip,fullfilmizle.*,izlehdfilm.net,1080pizle.net,tekparthdfilmizle.com,fullhdizle.*##.footer-sticky
-royaltv39.com##a[href^="https://t2ly.io/"]
+royaltv40.com##a[href^="https://t2ly.io/"]
 ruya-manga.com##.body-wrap > p[style="text-align: center;"]
 ruya-manga.com##a[href="https://cutt.ly/reklamsizokuma"]
 ruyalar.net##.site > div.code-block[style^="position: fixed; z-index: 999"]
@@ -4726,9 +4727,9 @@ taraftarium-24tv.com##a[href^="https://bit.ly/"]
 taraftarium.co##.topDuyuru
 taraftarium.co##div[class^="adsPanel"]
 taraftarium.tr##.stream-item-widget
-taraftarium24bjk27.com,taraftarium24tvizle.com###ad-pageskin
-taraftarium24bjk27.com,taraftarium24tvizle.com##.playerStrip
-taraftarium24bjk27.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
+taraftarium24bjk28.com,taraftarium24tvizle.com###ad-pageskin
+taraftarium24bjk28.com,taraftarium24tvizle.com##.playerStrip
+taraftarium24bjk28.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
 taraftarium24canlimacyayini.online,dizifilmbox.*##a[target="_blank"] > img[width="100%"][height="100%"]
 taraftarium24tvizle.com##.listAd
 taraftarium3-24.online##a[href="https://wa.me/447347044673"]
@@ -4869,6 +4870,7 @@ tgrthaber.com###masthead-div
 tgrthaber.com##.cozen-kazanir-banner
 tgrthaber.com##div[id^="taboola-slot"]
 tgrthaber.com,turkiyegazetesi.com.tr##.ad-placement-area
+tgrthaber.com,turkiyegazetesi.com.tr,ahbmedya.com,worldofturkiye.com,eksisozluk.com,filmizlekral.com,ogznet.com,ajanstekirdag.com,enyenimedya.com,yenisafak.com,kocatepegazetesi.com,dinimizislam.com,tarihiyolculuk.com,geziforumu.com,kadinloji.com,donghuatr.com,havadurumu15gunluk.xyz,sonhaber16.com,bifikir.com,nowtv.com.tr,haber228.com,diyarbakirhaber.com.tr,diyarbakirgazete.com,konupara.com,cumrapostasi.com,yeniakit.com.tr,sinemafilmizle.net,degisimgazetesi.com.tr,esporlab.com,havadurumu15gunluk.org,voleybolmagazin.com,londragazete.com,bursahayat.com.tr,trt1.com.tr,noktabursa.com.tr,anlikaltinfiyatlari.com,pasada.com.tr,memoryhackers.org,yenidonem.com.tr,slideplayer.biz.tr,sakarya360.com,bigunhaber.com,son32.com,emlaknews.com.tr,cagingazetesi.com.tr,sabahhaberi.com,sonsaat.com.tr,medyaankara.com,erotikfilmtube.com,anadolugunluk.com,kesinkarar.com,bursverenkurumlar.com,mengen.gen.tr,capital.com.tr,canlimobeseizle.com,nallihanhaber.com,muhabir26.com,gundembursa.com,uyan32.com,selcukhaber.com,webhakim.com,ibrala.com,ulakci.com,haberyum.com,yozgatses.com,forumotomobil.com,bodrumolay.com,akvaryum.com,uyumhaber.com,yenimeram.com.tr,gzt.com,thebrandage.com,gamer.com.tr,medyafaresi.com,indir.com,bjk.com.tr,bursadabugun.com,gercekgundem.com,haber7.com,internethaber.com,webtekno.com##.ads:not(#style_important)
 tgyama.com##+js(set-constant, tie.ad_blocker_disallow_images_placeholder, undefined)
 tgyama.com#%#//scriptlet('set-constant', 'tie.ad_blocker_disallow_images_placeholder', 'undefined')
 theflashizle.com##img[src^="https://www.cdnco.net/"]
@@ -5079,7 +5081,6 @@ turkiyegazetesi.com.tr##div[id^="dfp-masthead-infinity-"]
 turkiyegazetesi.com.tr##div[style="display:flex; justify-content: space-around; min-height:280px; margin-top: 20px; margin-bottom: 20px;"]
 turkiyegazetesi.com.tr##div[style^="min-width: 300px; min-height: 250px; display:flex;"]
 turkiyegazetesi.com.tr#$#.rowPaddingHorizontal a[href*="eminevim"] { visibility: hidden !important; }
-turkiyegazetesi.com.tr,ahbmedya.com,worldofturkiye.com,eksisozluk.com,filmizlekral.com,ogznet.com,ajanstekirdag.com,enyenimedya.com,yenisafak.com,kocatepegazetesi.com,dinimizislam.com,tarihiyolculuk.com,geziforumu.com,kadinloji.com,donghuatr.com,havadurumu15gunluk.xyz,sonhaber16.com,bifikir.com,nowtv.com.tr,haber228.com,diyarbakirhaber.com.tr,diyarbakirgazete.com,konupara.com,cumrapostasi.com,yeniakit.com.tr,sinemafilmizle.net,degisimgazetesi.com.tr,esporlab.com,havadurumu15gunluk.org,voleybolmagazin.com,londragazete.com,bursahayat.com.tr,trt1.com.tr,noktabursa.com.tr,anlikaltinfiyatlari.com,pasada.com.tr,memoryhackers.org,yenidonem.com.tr,slideplayer.biz.tr,sakarya360.com,bigunhaber.com,son32.com,emlaknews.com.tr,cagingazetesi.com.tr,sabahhaberi.com,sonsaat.com.tr,medyaankara.com,erotikfilmtube.com,anadolugunluk.com,kesinkarar.com,bursverenkurumlar.com,mengen.gen.tr,capital.com.tr,canlimobeseizle.com,nallihanhaber.com,muhabir26.com,gundembursa.com,uyan32.com,selcukhaber.com,webhakim.com,ibrala.com,ulakci.com,haberyum.com,yozgatses.com,forumotomobil.com,bodrumolay.com,akvaryum.com,uyumhaber.com,yenimeram.com.tr,gzt.com,thebrandage.com,gamer.com.tr,medyafaresi.com,indir.com,bjk.com.tr,bursadabugun.com,gercekgundem.com,haber7.com,internethaber.com,webtekno.com##.ads:not(#style_important)
 turkiyegazetesi.com.tr,gemlikgundemgazetesi.com,ggmyfriend.com,ingilizcenotlar.com##div[id^="ads"]
 turkiyegazetesi.com.tr,mavikadin.com##div[class^="dfp-galeri-masthead"]
 turkiyegazetesi.com.tr,mavikadin.com,iha.com.tr##div[id^="widget_General_Advert_"]
@@ -5736,8 +5737,6 @@ zirvedehaber.com##.header-ainfo
 ||*betine.live/view/theme/safir/img/*.gif
 ||*betine.live/view/theme/safir/img/betinepageskin.jpg
 ||*mac24.tv/*.gif
-||*macvartv.live/wp-content/uploads/*.gif
-||*macvartv.live/wp-content/uploads/2024/08/pageskin-mrhavayollari2.png
 ||0.oldgyhogola.com^
 ||061353efff4748e1a51974616704a9cc.js.ubembed.com^
 ||0638.info^
@@ -6822,7 +6821,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
 ||blogger.googleusercontent.com/img/$domain=patrongol42.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac102.cfd
-||blogger.googleusercontent.com/img/$domain=taraftarium24bjk27.com
+||blogger.googleusercontent.com/img/$domain=taraftarium24bjk28.com
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
 ||blogger.googleusercontent.com/img/*/pshg-min-min.gif
@@ -8868,6 +8867,8 @@ zirvedehaber.com##.header-ainfo
 ||m2d.m2.ai^
 ||ma1226-r.analytics.edgekey.net^
 ||macellan.online/allads/
+||macizle*.com/uploads/1780998716_1141d42cc53bd7f19bdb.png
+||macizle*.com/uploads/1792408626_30490276835e43b5d732.png
 ||macizlee*.com/images/pia2/*.gif
 ||macizlevip*.sbs//wp-content/uploads/*.gif
 ||mackeyfi*.sbs/wp-content/uploads/*.gif
@@ -10752,7 +10753,7 @@ zirvedehaber.com##.header-ainfo
 ||viagna.com/imgs/*.gif
 ||viagraeci.com/selcuksports/imgs/
 ||video-ad-stats.googlesyndication.com^
-||video.bsky.app/watch/*/playlist.m3u8$domain=taraftarium24bjk27.com
+||video.bsky.app/watch/*/playlist.m3u8$domain=taraftarium24bjk28.com
 ||video.ktkjmp.com^
 ||video.mcpuwpsh.com^
 ||video.mnaspm.com^
@@ -11043,6 +11044,7 @@ zirvedehaber.com##.header-ainfo
 ||yeniisfikirleri.net/wp-content/uploads/*/gsm-bayiligix.jpg
 ||yeniisfikirleri.net/wp-content/uploads/*/tasarruf-cihazlari-bayilik.jpg
 ||yenimesaj.com.tr/resimler/tanitimlar/
+||yenisafak.com/_astro/AdsRuntime.*.js
 ||yenisafak.com/turktelekom.png
 ||yenisoz.com.tr/modules/adblock/
 ||yeniufukgazetesi.com.tr/wp-content/uploads/2021/04/800.gif
