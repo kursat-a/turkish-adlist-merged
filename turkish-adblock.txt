@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-11 01:00:49
-! Toplam Kural: 11110
+! Güncelleme: 2026-11-12 01:00:46
+! Toplam Kural: 11112
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1139,6 +1139,7 @@ ceofix.com##img.disabled[width="250"][height="90"]
 ceofix.com##img.disabled[width="300"]
 cepkolik.com##body .td-header-style-12 .td-g-rec-id-header .adsbygoogle
 ceplik.com##.sidebar-inner > .widget-area > aside[id^="text-"]
+ceptemod.com#%#//scriptlet('remove-attr', 'href', 'div.flex > a.inline-flex[target="_blank"][href]')
 ceptenmuzikindir.me,mp3indirhane.com#$#div > a[href][target="_blank"][style*="display: flex !important;"] { position: absolute !important; left: -3000px !important; }
 cepteteb.com.tr#$#.fancybox-overlay { display: none !important; }
 cepteteb.com.tr#$?#.fancybox-lock body { overflow: auto !important; }
@@ -7236,6 +7237,7 @@ zirvedehaber.com##.header-ainfo
 ||ced-ns.sascdn.com^
 ||ced.sascdn.com^
 ||cedexis.com^
+||certainlywhen.com^
 ||certify-amp.alexametrics.com^
 ||certify-js.alexametrics.com^
 ||ceviz.pw^
