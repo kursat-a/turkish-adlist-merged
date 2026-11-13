@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-12 01:00:46
-! Toplam Kural: 11112
+! Güncelleme: 2026-11-13 01:00:51
+! Toplam Kural: 11119
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -331,7 +331,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 @@||dogus-ads-cdn.dygdigital.com/daion/daion-videojs-hlsjs-*.min.js
 @@||dogus-ads-cdn.dygdigital.com/live-broadcast-player/v1/bundle.js$domain=startv.com.tr
 @@||dramadizilerim.com/assets/js/admanager.js$~third-party
-@@||dramadizilerim.com^$generichide
+@@||dramadizilerim1.com^$generichide
 @@||dreamfancy.org^$generichide
 @@||egbilisim.com.tr/wp-content/uploads/$image
 @@||ensonhaber.com/resimler/Assets/v2/scripts/ads.js
@@ -925,6 +925,11 @@ bilgisayarbilisim.net##.headerrek
 bilgisayarbilisim.net##.sidebar > a[href][rel="nofollow"] > img
 bilgisayarbilisim.net##.webmobile > a[href][rel="nofollow"] > img
 bilgisayarbilisim.net##a[href="https://www.kodlabuyu.com/"]
+bilgisayarbilisim.net#%#//scriptlet('abort-current-inline-script', 'document.getElementById', '/adblock/i')
+bilgisayarbilisim.net#@#.AdContainer
+bilgisayarbilisim.net#@#.ad-slot
+bilgisayarbilisim.net#@#[id^="google_ads_iframe_"]
+bilgisayarbilisim.net#@#ins.adsbygoogle[data-ad-client]
 biliyo.org##div[style^="float:left;"][style$="min-width:336px;min-height:250px;"]
 birasyadizi.com##+js(abort-current-script, EventTarget.prototype.addEventListener, .height();)
 birasyadizi.com##+js(abort-on-property-write, onPopUnderLoaded)
@@ -1564,11 +1569,13 @@ doviz.com##.top-ad-container
 doviz.com##div[id$="Pageskin"]
 doviz.com,elle.com.tr,capital.com.tr,lezzet.com.tr,canlidoviz.com,tarotscans.com,repertuarim.com##body .empower-ad:not(#style_important)
 dovizgrafik.com##div[align="center"][style*="height:300px;"]
-dramadizilerim.com#$##sysOverlay99 { display: none !important; }
-dramadizilerim.com#$#body { overflow: auto !important; }
-dramadizilerim.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/\.offsetHeight[\s]*?===[\s]*?0|pagead2\.googlesyndication\.com/')
-dramadizilerim.com#%#//scriptlet('prevent-fetch', 'llvpn.com/tag.min.js')
-dramadizilerim.com#@#.ad-slot
+dramadizilerim1.com#$##sysOverlay99 { display: none !important; }
+dramadizilerim1.com#$#.access-screen { display: none !important; }
+dramadizilerim1.com#$#body { overflow: auto !important; }
+dramadizilerim1.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/\.offsetHeight[\s]*?===[\s]*?0|pagead2\.googlesyndication\.com/')
+dramadizilerim1.com#%#//scriptlet('prevent-fetch', 'llvpn.com/tag.min.js')
+dramadizilerim1.com#%#//scriptlet('remove-attr', 'inert')
+dramadizilerim1.com#@#.ad-slot
 dramadunyam.com##.engel-duvar
 dramaflix.cc#%#//scriptlet('set-constant', '__DRAMAFLIX_NO_ADS__', 'true')
 dreamfancy.org##a[href*="epincity.net/"][target="_blank"]
