@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-13 01:00:51
-! Toplam Kural: 11119
+! Güncelleme: 2026-11-14 01:00:53
+! Toplam Kural: 11122
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -5013,6 +5013,7 @@ tunceliemek.com.tr##.icReklamOrta
 tunceliemek.com.tr##.reklam-body-left1
 tureng.com###tureng-primis-placeholder
 tureng.com##.tureng-searchresults-col-left > div[style]:not([class]):not([id]):has(> .TNG_VIDEO)
+tureng.com##div[class*="tureng-searchresults-ad"]
 turizmajansi.com##a[href^="/rdads.aspx?r="]
 turizmajansi.com##div[id^="ads_ta"]
 turizmaktuel.com##.addy
@@ -6554,6 +6555,7 @@ zirvedehaber.com##.header-ainfo
 ||apis.kostprice.com^
 ||apk-2.online^$third-party
 ||apkindir.com/yonlen111.js
+||apkindir.com/yonver7777.js
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
@@ -10484,6 +10486,7 @@ zirvedehaber.com##.header-ainfo
 ||tns-counter.ru^
 ||to.getnitropack.com^
 ||tokihaber.com.tr/wp-content/uploads/*/*_970x250.
+||tongucvideo.com/kamp/reklam/
 ||tools.luckyorange.com^
 ||tools.mouseflow.com^
 ||top-fwz1.mail.ru^
