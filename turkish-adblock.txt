@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-14 01:00:53
+! Güncelleme: 2026-11-15 01:00:50
 ! Toplam Kural: 11122
 ! ============================================
 
@@ -1541,7 +1541,7 @@ donanimhaber.com##.bgtiklansin
 donanimhaber.com##.detay-gecis
 donanimhaber.com##.dh-advice-content
 donanimhaber.com##.dh-comments-ad
-donanimhaber.com##.dh-embed:has(> div.dh-embed__inner > div.empower-ad)
+donanimhaber.com##.dh-embed:has(> div.dh-embed__inner)
 donanimhaber.com##.dh-inline-ad
 donanimhaber.com##.giydirme-container
 donanimhaber.com##.konulisteTextReklam
