@@ -1,6 +1,6 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-16 01:00:49
+! Güncelleme: 2026-11-17 01:00:52
 ! Toplam Kural: 11122
 ! ============================================
 
@@ -2360,6 +2360,7 @@ gzone.com.tr##.wpb_wrapper > div.td_block_single_image:not([data-td-block-uid])
 gzt.com##.sponsored-card
 gzt.com##div[class^="_adWrapper"]
 gzt.com##section.header nav .sponsor
+gzt.com,yenisafak.com##aside[aria-label="Reklam"]
 ha-ber.com##.widget_reklam_widget
 haber.sol.org.tr###ad-haber-alti
 haber.sol.org.tr##.reklam-sagbant
@@ -5663,7 +5664,6 @@ yenisafak.com##.seperatorEmbedAd
 yenisafak.com##.swiper-wrapper > div.swiper-slide:has(a[href^="https://www.sinpasyts.com/"])
 yenisafak.com##.ys-masthead-ad-content
 yenisafak.com##.ys-popup-video-ad
-yenisafak.com##aside[aria-label="Reklam"]
 yenisafak.com#$#.layout { padding-top: 0 !important; }
 yenisafak.com#?#.ys-headline-carousel-item:has(div.ys-headline-carousel-media > div.ys-link > a[href^="https://"][target="_blank"])
 yenisafak.com.tr##.fancybox-overlay.fancybox-overlay-fixed
