@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-18 01:00:52
-! Toplam Kural: 11126
+! Güncelleme: 2026-11-19 01:00:54
+! Toplam Kural: 11127
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -3223,6 +3223,7 @@ koreliscans.com,hayalistic.com.tr##html > iframe[id][style*="position:"][style*=
 koreliscans.com,hayalistic.com.tr#$?#html > iframe[style*="position:"] { remove: true; }
 korezin.com##.type-ads
 korkmazhaber.com##div[itemprop="articleBody"] > div.code-block-1
+korkusuz.com.tr##.kkz-video-box
 kpsssorucevapba.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'adsbygoogle')
 kraloyun.com###advertising_load_area
 kraloyun.com##.alice-adslot
