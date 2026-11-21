@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-20 01:00:54
-! Toplam Kural: 11119
+! Güncelleme: 2026-11-21 01:00:54
+! Toplam Kural: 11124
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -1827,6 +1827,7 @@ evrensel.net#$#.tepe-banner { margin-top: 0 !important; }
 evrimagaci.org###feed-contents > div[style="z-index:3;"]
 evrimagaci.org##.adsbynokta
 evrimagaci.org##div[class^="ads--"]
+evrimagaci.org##div[data-ad-type]
 evrimagaci.org,wmaraci.com##.ads-container
 evvelcevap.com##.onn_placeholder
 evvelcevap.com##div[data-dest="placeholder"]
@@ -4815,12 +4816,16 @@ teknobird.com###custom_html-8
 teknobird.com,bodrumolay.com###custom_html-3
 teknobird.com,kredi.biz.tr,bodrumolay.com###custom_html-3
 teknoblog.com##.article-content > div.tkb-plist:has(> div.tkb-disclosure)
+teknoblog.com##.e-con-boxed:has(> .e-con-inner > .elementor-widget-shortcode > .elementor-shortcode > .tb-ad-placement)
 teknoblog.com##.tb-ad-placement
 teknoblog.com##.tb-ad-slot
 teknoblog.com##.tb-ad-wrap
+teknoblog.com##.tbis-masthead-wrap
+teknoblog.com##.tbn-rail-ad
 teknoblog.com##.tps-inline-card:has(> a[href^="https://www.google.com/preferences/source?q="])
 teknoblog.com##.wpb_wrapper > div.banneralani1.td-pb-border-top
 teknoblog.com##div[class^="tekno-banner"]
+teknoblog.com##div[id^="taboola-below-article-widget"]
 teknoblog.com#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 teknoblog.com#$#.tbl-explore-more-has-overlay { overflow: auto !important; }
 teknoblog.com#$#.tbl-explore-more-has-overlay::before { display: none !important; }
