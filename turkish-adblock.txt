@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-21 01:00:54
-! Toplam Kural: 11124
+! Güncelleme: 2026-11-22 01:00:51
+! Toplam Kural: 11126
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -704,6 +704,7 @@ aspor.com.tr#@#[class^="amp-ad-"]
 aspor.com.tr,ahaber.com.tr##.layout-slot-top
 asyaanimeleri.com##+js(abort-current-script, doOpen, edsiga.com)
 asyaanimeleri.com#%#//scriptlet('abort-current-inline-script', 'doOpen', 'edsiga.com')
+asyaanimeleri.top###u5ub8bzte40
 asyaanimeleri01.com,asyaanimeleri02.com,asyaanimeleri03.com,asyaanimeleri04.com,asyaanimeleri05.com,asyaanimeleri06.com###overplay
 asyadiziizle.com###content > a
 asyadiziizle.com##+js(remove-attr, style, #episode)
@@ -9510,6 +9511,7 @@ zirvedehaber.com##.header-ainfo
 ||pophit.net^$third-party
 ||popmarker.com^
 ||popmyads.com^
+||popzu-srv.live^
 ||pornhdr.cf^
 ||pornocudayi*.com/klip/klip-*.mp4
 ||pornoizle9.icu/pk8/ntr/b100.js
