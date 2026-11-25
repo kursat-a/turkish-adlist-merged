@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-24 01:00:50
-! Toplam Kural: 11128
+! Güncelleme: 2026-11-25 01:00:53
+! Toplam Kural: 11130
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2958,6 +2958,8 @@ jukeduke.com,stargamescasinoonline.com##img[height="250"][width="300"]
 jurnalci.com##div[id^="sagareklam"]
 jurnalci.com#$#.adsbygoogle { position: absolute !important; left: -3000px !important; }
 justintaraftarium.net#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
+justintv-canli.online##video ~ div[class^="absolute inset-0 z-50 grid place-items-center bg-black"]
+justintv-canli.online,sozcu.com.tr##a[rel="noopener sponsored"]
 justintv-canlimacizle.com###ouibounce-modal
 justintv.*##.stream-item-top-wrapper
 justintv.*##div[id^="stream-item"]
@@ -4335,6 +4337,7 @@ selcukflix.com,contentx.me###videoText
 selcukflix.com,dizilla.club,atvavrupa.tv,apara.com.tr,larende.com,kemergozcu.com,otohaber.com.tr,lha.com.tr,aktifbulten.com.tr,antalyasonhaber.com,haberetanik.com,tevhidgundemi.com,hakimiyet.com,gaziantep27.net,olay53.com,olayrize.com,akcaabatinsesi.com,haberzamani.net,avazturk.com,ereglimetro.com.tr,aydinhedef.com.tr,lojiport.com,ngazete.com,marastanhaber.com.tr,nutuk.com.tr,yenikapihaber.com,ilgazetesi.com.tr,hakkariobjektifhaber.com,tasova.net,hakkarihabertv.com,karamanhabercisi.com,marasgundem.com.tr,sivasbulteni.com,detaykibris.com,wanhaber.com,elazighaber.com,virahaber.com,61trabzonhaber.com,karsmanset.com,mepanews.com,golbasisongaste.com,yuksekovahaber.com.tr,memleket.com.tr,gazeteguncel.com,enerjigunlugu.net,buyukkocaeli.com.tr,magazinkolik.com,sakaryahaber.com,ekrangazetesi.com,isilanlarikariyer.com,konyaninsesi.com.tr,siyasetcafe.com,optimushaber.com,gunboyugazetesi.com.tr,agazete.com.tr,aktuelpsikoloji.com,banazguncelhaber.com,kibris724.com,takvim.com.tr,aydin24haber.com,agrisoz.com,turkiyeegitim.com,nazillihavadis.com,koylerim.com,yeniasir.com.tr,ahaber.com.tr,risalehaber.com,bilecikhaber.com.tr,pusulahaber.com.tr,bolgegundem.com,olay.com.tr,saglikaktuel.com,afyonanahaber.com.tr,merhabahaber.com,sariyermanset.com,haberartiturk.com,yeniduzen.com,analizmerkezi.com,bafra55.net,atv.com.tr,ajans32.com,aspor.com.tr,dengegazetesi.com.tr,haberay.com.tr,kargohaber.com,medyaege.com.tr,memurpostasi.com,ozgurkocaeli.com.tr,pazar53.com,sabah.com.tr,teknolojic.com,ulkucumedya.com,ulusalpost.com,yenicaggazetesi.com.tr,ajansbesiktas.com##.advert
 selcukhaber.com###tepereklam
 selcukhdyayin.com##.below-player-banner
+selcuksporthd.net,superfilmizle.*,plusizle.com,filmkuzusu.vip,hboxcdn.xyz,keplersociety.com,vegoltv981.com,sierato.com,dizigom.love,cehennemizle.cc,cdnvexo.site,bingozade.com,ifsaciturksex99.site,99turkifsaizle.site,trkifsalariz.site,escobarvip.blog,dizipal.website,videojs.online,epikplayer.xyz,animeler.me,player.filmizle.in,tranimaci.com,izlekolik.org,4kfilmizlesene.*#%#//scriptlet('prevent-window-open')
 selcuksports.*##.fixed:has(> div.relative > a[href^="https://t2m.io/"])
 selcuksports.*##a[href^="https://t2m.io/"]
 selcuksportshd.is##.page-overlay
@@ -4589,7 +4592,6 @@ sozcu.com.tr##[data-adstatus="1"]
 sozcu.com.tr##[data-sitename="ilan"] > *
 sozcu.com.tr##[href^="http://app.pubserver.adhood.com/"]
 sozcu.com.tr##[href^="http://www.ertugrulakbay.com/"]
-sozcu.com.tr##a[rel="noopener sponsored"]
 sozcu.com.tr##body .adInitRemove
 sozcu.com.tr##iframe[src^="https://a-ssl.ligatus.com/"]
 sozcu.com.tr#$#.news-body article[data-url] { min-height: auto !important; }
@@ -4667,7 +4669,6 @@ superfb.com###newsContent > div[style="margin:3px;"] > a[href^="http://bit.ly/"]
 superfb.com##.right > div[align="center"][style="margin-top:20px;"] > div[style*="background: url(/_img/otoraba/"]
 superfilmgeldi.net#$#.play-that-video { display: none !important; }
 superfilmgeldi.net#$#.video-content { display: block !important; }
-superfilmizle.*,plusizle.com,filmkuzusu.vip,hboxcdn.xyz,keplersociety.com,vegoltv981.com,sierato.com,dizigom.love,cehennemizle.cc,cdnvexo.site,bingozade.com,ifsaciturksex99.site,99turkifsaizle.site,trkifsalariz.site,escobarvip.blog,dizipal.website,videojs.online,epikplayer.xyz,animeler.me,player.filmizle.in,tranimaci.com,izlekolik.org,4kfilmizlesene.*#%#//scriptlet('prevent-window-open')
 superhaber.com##.adpro
 superhaber.com#?#.container > .row > .col-md-6:has(> .adpro)
 superhaber.com,bolgegundem.com.tr,dizipal.im,gazetepencere.com,ilkhaber-gazetesi.com,tigrishaber.com,iftarsaati.org,trendyol.com,ekoltv.com.tr,airporthaber2.com,tvnota.com,bayburtmanset.com,kartalgazetesi.com,sehirmedya.com,bursahayat.com.tr,yozgatcamlik.com##.banner
@@ -8683,6 +8684,7 @@ zirvedehaber.com##.header-ainfo
 ||justintv*.pro/izinler/*.gif
 ||justintv*.pro/izinler/ultrabetpage.
 ||justintv*.top/assets/img/*.gif
+||justintv-canli.online/media/*.mp4
 ||justintvizle*.pro/cdn/r/$subdocument
 ||justintvizle*.top/cdn/r/
 ||justintvizle*.top/dimg/*.gif
