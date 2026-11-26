@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-25 01:00:53
-! Toplam Kural: 11130
+! Güncelleme: 2026-11-26 01:00:54
+! Toplam Kural: 11133
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -195,6 +195,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 /thumb.php?src=*/images/banner/*
 /toast/js/toast.js$domain=muzikmp3indir.com
 /tr?tag=$all
+/upload/assets/feature-01.gif$domain=anizle.*|anizle.com|anizle.net|anizm.*|anizm.net|anizm.com.tr|anizm.pro|puffytr.com
 /uploads/*-banner-$domain=worldofturkiye.com|bursa.com|sigortacigazetesi.com.tr
 /uploads/*-banner.$domain=worldofturkiye.com|kampyerleri.org|bilgenc.com|sigortacigazetesi.com.tr|gmdergi.com
 /uploads/ad/*$domain=caytvhaber.com|bozkirpostasi.com
@@ -623,6 +624,7 @@ animeizlesene.com,webdramaturkey.*##.ads-embed
 animeizlesene.com,webdramaturkey2.com,webdramaturkey.*##.ads-embed
 animeler.me#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', 'Popunder')
 animex.club##iframe[src="https://www.animex.club/reklamEngine.php"]
+anizle.*,anizm.*,puffytr.com##a[rel*="sponsored"]
 anizle.*,anizm.*,puffytr.com##a[target="_blank"] > img.img-responsive[src^="/images/"][alt]
 anizle.*,anizm.*,puffytr.com##div[class^="aramas"] > a[target="_blank"]
 anizle.*,anizm.*,puffytr.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '.parentNode.insertBefore(')
@@ -3997,6 +3999,7 @@ pandaspor.live##a[onclick^="trackBannerClick"]
 pandaspor.live#%#//scriptlet('remove-attr', 'disabled', 'button#skipBtn')
 papajohns.com.tr##.popup-overlay
 papajohns.com.tr##.popup-window
+paraanaliz.com,ifhaber.com,borsanasiloynanir.co##a[rel*="sponsored"]
 paraborsa.net##iframe[src^="https://gedik-cdn.foreks.com/"]
 paracevirici.com##.contentArea > .contentAreaRight > div[style*="width:336px;height:280px;"]
 paracevirici.com##.rowAdd
@@ -4736,9 +4739,9 @@ taraftarium-24tv.com##a[href^="https://bit.ly/"]
 taraftarium.co##.topDuyuru
 taraftarium.co##div[class^="adsPanel"]
 taraftarium.tr##.stream-item-widget
-taraftarium24bjk30.com,taraftarium24tvizle.com###ad-pageskin
-taraftarium24bjk30.com,taraftarium24tvizle.com##.playerStrip
-taraftarium24bjk30.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
+taraftarium24bjk31.com,taraftarium24tvizle.com###ad-pageskin
+taraftarium24bjk31.com,taraftarium24tvizle.com##.playerStrip
+taraftarium24bjk31.com,taraftarium24tvizle.com#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled\s*:\s*true/g', 'prerollEnabled: false')
 taraftarium24canlimacyayini.online,dizifilmbox.*##a[target="_blank"] > img[width="100%"][height="100%"]
 taraftarium24tvizle.com##.listAd
 taraftarium3-24.online##a[href="https://wa.me/447347044673"]
@@ -6836,7 +6839,7 @@ zirvedehaber.com##.header-ainfo
 ||blogger.googleusercontent.com/img/$domain=noingoaithatgiare.com|macizletaraftarium.online
 ||blogger.googleusercontent.com/img/$domain=patrongol42.cfd
 ||blogger.googleusercontent.com/img/$domain=patronmac102.cfd
-||blogger.googleusercontent.com/img/$domain=taraftarium24bjk30.com
+||blogger.googleusercontent.com/img/$domain=taraftarium24bjk31.com
 ||blogger.googleusercontent.com/img/$domain=x.palv2.cfd
 ||blogger.googleusercontent.com/img/*.gif$domain=taraftariummdeneme.blogspot.com
 ||blogger.googleusercontent.com/img/*/pshg-min-min.gif
@@ -10773,7 +10776,7 @@ zirvedehaber.com##.header-ainfo
 ||viagna.com/imgs/*.gif
 ||viagraeci.com/selcuksports/imgs/
 ||video-ad-stats.googlesyndication.com^
-||video.bsky.app/watch/*/playlist.m3u8$domain=taraftarium24bjk30.com
+||video.bsky.app/watch/*/playlist.m3u8$domain=taraftarium24bjk31.com
 ||video.ktkjmp.com^
 ||video.mcpuwpsh.com^
 ||video.mnaspm.com^
