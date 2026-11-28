@@ -1,7 +1,7 @@
 ! ============================================
 ! BİRLEŞTİRİLMİŞ TÜRKÇE ADBLOCK LİSTESİ
-! Güncelleme: 2026-11-27 01:00:55
-! Toplam Kural: 11136
+! Güncelleme: 2026-11-28 01:00:57
+! Toplam Kural: 11144
 ! ============================================
 
 $image,redirect-rule=1x1-transparent.gif,domain=puhutv.com
@@ -2316,6 +2316,14 @@ golcukvizyongazetesi.com,cimri.com##.header-promo
 golftutkusu.com##.deskad
 golftutkusu.com##.mobad
 golgebahcesi.com##.rutaku-banner
+golgebahcesi.com##body > div.fixed.inset-0.backdrop-blur-sm
+golgebahcesi.com#@#.ad-slot
+golgebahcesi.com#@#.ad-unit:not(.textads)
+golgebahcesi.com#@#.ad-wrapper
+golgebahcesi.com#@#.adSense
+golgebahcesi.com#@#.ad_unit
+golgebahcesi.com#@#.adunit
+golgebahcesi.com#@#.sponsored-ad
 golvartv596.xyz,golvartv597.xyz,golvartv598.xyz,golvartv599.xyz,golvartv600.xyz,golvartv601.xyz,golvartv602.xyz,golvartv603.xyz,golvartv604.xyz,golvartv605.xyz,golvartv606.xyz,golvartv607.xyz,golvartv608.xyz,golvartv609.xyz,golvartv610.xyz,golvartv611.xyz,golvartv612.xyz,golvartv613.xyz,golvartv614.xyz,golvartv615.xyz,golvartv616.xyz##.pageskin
 goodfilmizle.com##.footerleft
 goodfilmizle.com#$##episode { height: unset !important; width: unset !important; position: unset !important; }
